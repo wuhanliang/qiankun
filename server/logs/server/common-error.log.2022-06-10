@@ -1,0 +1,20 @@
+2022-06-10 23:10:00,573 ERROR 13460 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (node:internal/fs/watchers:204:21)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "D:\\person\\qiankun\\server\\app\\contract\\request"
+name: "EPERMError"
+pid: 13460
+hostname: LAPTOP-0R88EIG3
+
+2022-06-10 23:41:18,433 ERROR 9056 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 9056
+hostname: LAPTOP-0R88EIG3
+

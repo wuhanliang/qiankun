@@ -1,0 +1,323 @@
+{
+  "keys": "D:\\person\\qiankun\\server\\config\\config.default.js",
+  "middleware": "D:\\person\\qiankun\\server\\config\\config.default.js",
+  "security": {
+    "csrf": {
+      "enable": "D:\\person\\qiankun\\server\\config\\config.default.js",
+      "type": "D:\\person\\qiankun\\server\\node_modules\\_egg-security@2.10.1@egg-security\\config\\config.default.js",
+      "ignoreJSON": "D:\\person\\qiankun\\server\\node_modules\\_egg-security@2.10.1@egg-security\\config\\config.default.js",
+      "useSession": "D:\\person\\qiankun\\server\\node_modules\\_egg-security@2.10.1@egg-security\\config\\config.default.js",
+      "cookieName": "D:\\person\\qiankun\\server\\node_modules\\_egg-security@2.10.1@egg-security\\config\\config.default.js",
+      "sessionName": "D:\\person\\qiankun\\server\\node_modules\\_egg-security@2.10.1@egg-security\\config\\config.default.js",
+      "headerName": "D:\\person\\qiankun\\server\\node_modules\\_egg-security@2.10.1@egg-security\\config\\config.default.js",
+      "bodyName": "D:\\person\\qiankun\\server\\node_modules\\_egg-security@2.10.1@egg-security\\config\\config.default.js",
+      "queryName": "D:\\person\\qiankun\\server\\node_modules\\_egg-security@2.10.1@egg-security\\config\\config.default.js",
+      "supportedRequests": "D:\\person\\qiankun\\server\\node_modules\\_egg-security@2.10.1@egg-security\\config\\config.default.js",
+      "refererWhiteList": "D:\\person\\qiankun\\server\\node_modules\\_egg-security@2.10.1@egg-security\\config\\config.default.js"
+    },
+    "domainWhiteList": "D:\\person\\qiankun\\server\\config\\config.default.js",
+    "protocolWhiteList": "D:\\person\\qiankun\\server\\node_modules\\_egg-security@2.10.1@egg-security\\config\\config.default.js",
+    "defaultMiddleware": "D:\\person\\qiankun\\server\\node_modules\\_egg-security@2.10.1@egg-security\\config\\config.default.js",
+    "xframe": {
+      "enable": "D:\\person\\qiankun\\server\\node_modules\\_egg-security@2.10.1@egg-security\\config\\config.default.js",
+      "value": "D:\\person\\qiankun\\server\\node_modules\\_egg-security@2.10.1@egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "D:\\person\\qiankun\\server\\node_modules\\_egg-security@2.10.1@egg-security\\config\\config.local.js",
+      "maxAge": "D:\\person\\qiankun\\server\\node_modules\\_egg-security@2.10.1@egg-security\\config\\config.default.js",
+      "includeSubdomains": "D:\\person\\qiankun\\server\\node_modules\\_egg-security@2.10.1@egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "D:\\person\\qiankun\\server\\node_modules\\_egg-security@2.10.1@egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "D:\\person\\qiankun\\server\\node_modules\\_egg-security@2.10.1@egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "D:\\person\\qiankun\\server\\node_modules\\_egg-security@2.10.1@egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "D:\\person\\qiankun\\server\\node_modules\\_egg-security@2.10.1@egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "D:\\person\\qiankun\\server\\node_modules\\_egg-security@2.10.1@egg-security\\config\\config.default.js",
+      "value": "D:\\person\\qiankun\\server\\node_modules\\_egg-security@2.10.1@egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "D:\\person\\qiankun\\server\\node_modules\\_egg-security@2.10.1@egg-security\\config\\config.default.js",
+      "value": "D:\\person\\qiankun\\server\\node_modules\\_egg-security@2.10.1@egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "D:\\person\\qiankun\\server\\node_modules\\_egg-security@2.10.1@egg-security\\config\\config.default.js",
+      "policy": "D:\\person\\qiankun\\server\\node_modules\\_egg-security@2.10.1@egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "D:\\person\\qiankun\\server\\node_modules\\_egg-security@2.10.1@egg-security\\config\\config.default.js",
+      "ipExceptionList": "D:\\person\\qiankun\\server\\node_modules\\_egg-security@2.10.1@egg-security\\config\\config.default.js",
+      "checkAddress": "D:\\person\\qiankun\\server\\node_modules\\_egg-security@2.10.1@egg-security\\config\\config.default.js"
+    }
+  },
+  "cors": {
+    "origin": "D:\\person\\qiankun\\server\\config\\config.default.js",
+    "allowMethods": "D:\\person\\qiankun\\server\\config\\config.default.js"
+  },
+  "swaggerdoc": {
+    "dirScanner": "D:\\person\\qiankun\\server\\config\\config.default.js",
+    "apiInfo": {
+      "title": "D:\\person\\qiankun\\server\\config\\config.default.js",
+      "description": "D:\\person\\qiankun\\server\\config\\config.default.js",
+      "version": "D:\\person\\qiankun\\server\\config\\config.default.js"
+    },
+    "schemes": "D:\\person\\qiankun\\server\\config\\config.default.js",
+    "consumes": "D:\\person\\qiankun\\server\\config\\config.default.js",
+    "produces": "D:\\person\\qiankun\\server\\config\\config.default.js",
+    "enableSecurity": "D:\\person\\qiankun\\server\\config\\config.default.js",
+    "routerMap": "D:\\person\\qiankun\\server\\config\\config.default.js",
+    "enable": "D:\\person\\qiankun\\server\\config\\config.default.js",
+    "basePath": "D:\\person\\qiankun\\server\\node_modules\\_egg-swagger-doc@2.3.2@egg-swagger-doc\\config\\config.default.js",
+    "securityDefinitions": "D:\\person\\qiankun\\server\\node_modules\\_egg-swagger-doc@2.3.2@egg-swagger-doc\\config\\config.default.js"
+  },
+  "session": {
+    "maxAge": "D:\\person\\qiankun\\server\\node_modules\\_egg-session@3.3.0@egg-session\\config\\config.default.js",
+    "key": "D:\\person\\qiankun\\server\\node_modules\\_egg-session@3.3.0@egg-session\\config\\config.default.js",
+    "httpOnly": "D:\\person\\qiankun\\server\\node_modules\\_egg-session@3.3.0@egg-session\\config\\config.default.js",
+    "encrypt": "D:\\person\\qiankun\\server\\node_modules\\_egg-session@3.3.0@egg-session\\config\\config.default.js",
+    "logValue": "D:\\person\\qiankun\\server\\node_modules\\_egg-session@3.3.0@egg-session\\config\\config.default.js"
+  },
+  "helper": {
+    "shtml": "D:\\person\\qiankun\\server\\node_modules\\_egg-security@2.10.1@egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "D:\\person\\qiankun\\server\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "callback": "D:\\person\\qiankun\\server\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "csrf": "D:\\person\\qiankun\\server\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "D:\\person\\qiankun\\server\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "D:\\person\\qiankun\\server\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "templatePath": "D:\\person\\qiankun\\server\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "D:\\person\\qiankun\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "dirs": "D:\\person\\qiankun\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "queryField": "D:\\person\\qiankun\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieField": "D:\\person\\qiankun\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieDomain": "D:\\person\\qiankun\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "D:\\person\\qiankun\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "D:\\person\\qiankun\\server\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "D:\\person\\qiankun\\server\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.default.js",
+      "development": "D:\\person\\qiankun\\server\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "D:\\person\\qiankun\\server\\node_modules\\_egg-schedule@3.6.6@egg-schedule\\config\\config.default.js",
+      "file": "D:\\person\\qiankun\\server\\node_modules\\_egg-schedule@3.6.6@egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "D:\\person\\qiankun\\server\\node_modules\\_egg-schedule@3.6.6@egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "D:\\person\\qiankun\\server\\node_modules\\_egg-multipart@2.13.1@egg-multipart\\config\\config.default.js",
+    "autoFields": "D:\\person\\qiankun\\server\\node_modules\\_egg-multipart@2.13.1@egg-multipart\\config\\config.default.js",
+    "defaultCharset": "D:\\person\\qiankun\\server\\node_modules\\_egg-multipart@2.13.1@egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "D:\\person\\qiankun\\server\\node_modules\\_egg-multipart@2.13.1@egg-multipart\\config\\config.default.js",
+    "fieldSize": "D:\\person\\qiankun\\server\\node_modules\\_egg-multipart@2.13.1@egg-multipart\\config\\config.default.js",
+    "fields": "D:\\person\\qiankun\\server\\node_modules\\_egg-multipart@2.13.1@egg-multipart\\config\\config.default.js",
+    "fileSize": "D:\\person\\qiankun\\server\\node_modules\\_egg-multipart@2.13.1@egg-multipart\\config\\config.default.js",
+    "files": "D:\\person\\qiankun\\server\\node_modules\\_egg-multipart@2.13.1@egg-multipart\\config\\config.default.js",
+    "fileExtensions": "D:\\person\\qiankun\\server\\node_modules\\_egg-multipart@2.13.1@egg-multipart\\config\\config.default.js",
+    "whitelist": "D:\\person\\qiankun\\server\\node_modules\\_egg-multipart@2.13.1@egg-multipart\\config\\config.default.js",
+    "allowArrayField": "D:\\person\\qiankun\\server\\node_modules\\_egg-multipart@2.13.1@egg-multipart\\config\\config.default.js",
+    "tmpdir": "D:\\person\\qiankun\\server\\node_modules\\_egg-multipart@2.13.1@egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "D:\\person\\qiankun\\server\\node_modules\\_egg-multipart@2.13.1@egg-multipart\\config\\config.default.js",
+      "disable": "D:\\person\\qiankun\\server\\node_modules\\_egg-multipart@2.13.1@egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "D:\\person\\qiankun\\server\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "ignoreDirs": "D:\\person\\qiankun\\server\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "fastReady": "D:\\person\\qiankun\\server\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "reloadOnDebug": "D:\\person\\qiankun\\server\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "overrideDefault": "D:\\person\\qiankun\\server\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "overrideIgnore": "D:\\person\\qiankun\\server\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "D:\\person\\qiankun\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "D:\\person\\qiankun\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "D:\\person\\qiankun\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "D:\\person\\qiankun\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFiles": "D:\\person\\qiankun\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "D:\\person\\qiankun\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxDays": "D:\\person\\qiankun\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "D:\\person\\qiankun\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dir": "D:\\person\\qiankun\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dynamic": "D:\\person\\qiankun\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "preload": "D:\\person\\qiankun\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "buffer": "D:\\person\\qiankun\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "maxFiles": "D:\\person\\qiankun\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "D:\\person\\qiankun\\server\\node_modules\\_egg-view@2.1.3@egg-view\\config\\config.default.js",
+    "cache": "D:\\person\\qiankun\\server\\node_modules\\_egg-view@2.1.3@egg-view\\config\\config.local.js",
+    "defaultExtension": "D:\\person\\qiankun\\server\\node_modules\\_egg-view@2.1.3@egg-view\\config\\config.default.js",
+    "defaultViewEngine": "D:\\person\\qiankun\\server\\node_modules\\_egg-view@2.1.3@egg-view\\config\\config.default.js",
+    "mapping": "D:\\person\\qiankun\\server\\node_modules\\_egg-view@2.1.3@egg-view\\config\\config.default.js"
+  },
+  "env": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+  "name": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+  "cookies": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+  "proxy": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+  "maxIpsCount": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+  "maxProxyCount": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+  "protocolHeaders": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+  "ipHeaders": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+  "hostHeaders": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+  "pkg": {
+    "name": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+    "version": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+    "description": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+    "private": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+    "egg": {
+      "declarations": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js"
+    },
+    "dependencies": {
+      "egg": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+      "egg-cors": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+      "egg-scripts": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+      "egg-swagger-doc": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "autod": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+      "autod-egg": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+      "egg-bin": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+      "egg-ci": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+      "egg-mock": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+      "eslint": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+      "eslint-config-egg": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js"
+    },
+    "scripts": {
+      "start": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+      "stop": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+      "dev": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+      "debug": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+      "test": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+      "test-local": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+      "cov": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+      "lint": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+      "ci": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+      "autod": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js"
+    },
+    "ci": {
+      "version": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+      "url": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js"
+    },
+    "author": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+    "license": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js"
+  },
+  "baseDir": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+  "HOME": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+  "rundir": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+    "notFound": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+    "sitefile": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+    "middlewares": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+    "httpClient": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+    "cacheControl": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+    "encoding": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+    "formLimit": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+    "jsonLimit": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+    "textLimit": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+    "strict": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+      "depth": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+      "parameterLimit": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js"
+    },
+    "onerror": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+    "encoding": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+    "env": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+    "level": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+    "consoleLevel": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+    "outputJSON": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+    "buffer": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+    "appLogName": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+    "coreLogName": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+    "agentLogName": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+    "errorLogName": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+    "enablePerformanceTimer": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+    "request": {
+      "timeout": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+      "maxSockets": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+      "maxSockets": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+    "logging": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+  "workerStartTimeout": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+  "serverTimeout": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+      "port": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+      "hostname": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js",
+    "responseTimeout": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js"
+  },
+  "onClientError": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\config.default.js"
+}

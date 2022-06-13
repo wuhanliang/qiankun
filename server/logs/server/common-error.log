@@ -1,0 +1,9 @@
+2022-06-13 17:56:52,631 ERROR 10604 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10604
+hostname: LAPTOP-0R88EIG3
+

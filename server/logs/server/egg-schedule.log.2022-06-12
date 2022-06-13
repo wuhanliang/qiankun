@@ -1,0 +1,156 @@
+2022-06-11 00:00:46,331 INFO 19748 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 00:00:46,331 INFO 19748 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 00:00:46,331 INFO 19748 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-11 00:01:03,781 INFO 20072 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 00:01:03,781 INFO 20072 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 00:01:03,781 INFO 20072 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-11 00:01:05,906 INFO 25868 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 00:01:05,906 INFO 25868 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 00:01:05,906 INFO 25868 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-11 00:02:06,878 INFO 5148 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 00:02:06,878 INFO 5148 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 00:02:06,878 INFO 5148 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-11 00:02:28,203 INFO 10784 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 00:02:28,203 INFO 10784 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 00:02:28,203 INFO 10784 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-11 00:02:57,086 INFO 25888 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 00:02:57,086 INFO 25888 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 00:02:57,086 INFO 25888 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-11 00:03:40,273 INFO 13680 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 00:03:40,273 INFO 13680 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 00:03:40,273 INFO 13680 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-11 00:05:25,423 INFO 15188 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 00:05:25,423 INFO 15188 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 00:05:25,423 INFO 15188 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-11 00:08:33,956 INFO 17152 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 00:08:33,956 INFO 17152 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 00:08:33,956 INFO 17152 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-11 00:08:48,704 INFO 3720 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 00:08:48,704 INFO 3720 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 00:08:48,704 INFO 3720 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-11 00:09:23,106 INFO 10616 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 00:09:23,106 INFO 10616 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 00:09:23,106 INFO 10616 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-11 00:12:15,852 INFO 20384 [Timer] D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 15464153ms at 2022-06-11 04:30:00.005
+2022-06-11 00:12:15,853 INFO 20384 [Timer] D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 85664148ms at 2022-06-12 00:00:00.001
+2022-06-11 00:12:15,855 INFO 20384 [Timer] D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 85665147ms at 2022-06-12 00:00:01.002
+2022-06-11 00:12:15,664 INFO 8548 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 00:12:15,664 INFO 8548 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 00:12:15,664 INFO 8548 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-11 00:12:56,123 INFO 26088 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 00:12:56,123 INFO 26088 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 00:12:56,123 INFO 26088 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-11 00:13:00,979 INFO 25488 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 00:13:00,979 INFO 25488 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 00:13:00,979 INFO 25488 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-11 00:13:33,748 INFO 15068 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 00:13:33,749 INFO 15068 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 00:13:33,749 INFO 15068 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-11 00:13:49,901 INFO 18896 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 00:13:49,901 INFO 18896 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 00:13:49,901 INFO 18896 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-11 00:14:01,008 INFO 6188 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 00:14:01,008 INFO 6188 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 00:14:01,008 INFO 6188 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-11 00:14:58,094 INFO 19852 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 00:14:58,094 INFO 19852 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 00:14:58,094 INFO 19852 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-11 00:16:37,845 INFO 11504 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 00:16:37,845 INFO 11504 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 00:16:37,845 INFO 11504 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-11 00:17:39,716 INFO 21832 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 00:17:39,717 INFO 21832 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 00:17:39,717 INFO 21832 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-11 00:18:29,449 INFO 20668 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 00:18:29,449 INFO 20668 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 00:18:29,449 INFO 20668 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-11 00:18:42,136 INFO 3392 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 00:18:42,136 INFO 3392 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 00:18:42,137 INFO 3392 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-11 00:19:07,260 INFO 4856 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 00:19:07,260 INFO 4856 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 00:19:07,260 INFO 4856 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-11 00:19:18,554 INFO 5076 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 00:19:18,554 INFO 5076 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 00:19:18,554 INFO 5076 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-11 00:20:06,665 INFO 21480 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 00:20:06,665 INFO 21480 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 00:20:06,665 INFO 21480 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-11 00:20:27,901 INFO 23872 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 00:20:27,901 INFO 23872 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 00:20:27,901 INFO 23872 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-11 00:20:37,416 INFO 25040 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 00:20:37,416 INFO 25040 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 00:20:37,416 INFO 25040 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-11 00:21:01,231 INFO 24648 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 00:21:01,231 INFO 24648 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 00:21:01,231 INFO 24648 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-11 00:21:16,545 INFO 25132 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 00:21:16,545 INFO 25132 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 00:21:16,545 INFO 25132 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-11 00:21:51,149 INFO 13756 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 00:21:51,149 INFO 13756 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 00:21:51,150 INFO 13756 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-11 01:34:57,713 INFO 20884 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 01:34:57,713 INFO 20884 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 01:34:57,714 INFO 20884 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-11 01:34:59,378 INFO 20504 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 01:34:59,378 INFO 20504 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 01:34:59,378 INFO 20504 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-11 01:36:34,317 INFO 17848 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 01:36:34,317 INFO 17848 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 01:36:34,318 INFO 17848 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-11 01:36:48,047 INFO 24080 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 01:36:48,047 INFO 24080 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 01:36:48,047 INFO 24080 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-11 01:41:09,175 INFO 19600 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 01:41:09,175 INFO 19600 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 01:41:09,175 INFO 19600 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-11 04:43:41,125 INFO 20384 [Timer] D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 85578879ms at 2022-06-12 04:30:00.004
+2022-06-11 04:43:41,220 INFO 19600 [Job#16548938211201131763352776001] D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js executing by app
+2022-06-11 04:43:41,283 INFO 19600 [Job#16548938211201131763352776001] D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js execute succeed, used 61ms. 
+2022-06-11 13:39:05,438 INFO 22944 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 13:39:05,438 INFO 22944 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 13:39:05,438 INFO 22944 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-11 13:39:08,159 INFO 24420 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 13:39:08,159 INFO 24420 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 13:39:08,160 INFO 24420 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-11 18:11:24,855 INFO 1812 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 18:11:24,855 INFO 1812 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 18:11:24,855 INFO 1812 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-11 18:11:25,241 INFO 22764 [Timer] D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 37114766ms at 2022-06-12 04:30:00.007
+2022-06-11 18:11:25,242 INFO 22764 [Timer] D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 20914759ms at 2022-06-12 00:00:00.001
+2022-06-11 18:11:25,242 INFO 22764 [Timer] D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 20915758ms at 2022-06-12 00:00:01.000
+2022-06-11 18:11:27,292 INFO 2128 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 18:11:27,292 INFO 2128 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 18:11:27,292 INFO 2128 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-11 18:11:29,376 INFO 21960 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-11 18:11:29,376 INFO 21960 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-11 18:11:29,376 INFO 21960 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-12 17:53:34,953 INFO 10604 [Timer] D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 38185058ms at 2022-06-13 04:30:00.011
+2022-06-12 17:53:34,954 INFO 10604 [Timer] D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 21985047ms at 2022-06-13 00:00:00.001
+2022-06-12 17:53:34,954 INFO 10604 [Timer] D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 21986046ms at 2022-06-13 00:00:01.000
+2022-06-12 17:53:34,472 INFO 11904 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-12 17:53:34,472 INFO 11904 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-12 17:53:34,473 INFO 11904 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-12 17:53:37,298 INFO 21972 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-12 17:53:37,298 INFO 21972 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-12 17:53:37,298 INFO 21972 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-12 17:53:40,200 INFO 14276 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-12 17:53:40,200 INFO 14276 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-12 17:53:40,201 INFO 14276 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-12 19:00:27,355 INFO 7244 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-12 19:00:27,355 INFO 7244 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-12 19:00:27,355 INFO 7244 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-12 19:00:30,032 INFO 3316 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-12 19:00:30,032 INFO 3316 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2022-06-12 19:00:30,032 INFO 3316 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-13 17:54:24,143 INFO 10604 [Timer] D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 21935887ms at 2022-06-14 00:00:00.030
+2022-06-13 17:54:24,530 INFO 10604 [Timer] D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 21936857ms at 2022-06-14 00:00:01.387
+2022-06-13 17:54:24,543 INFO 10604 [Timer] D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 38135468ms at 2022-06-14 04:30:00.011
+2022-06-13 17:54:24,829 INFO 3316 [Job#16551140640931720878240952001] D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js executing by app
+2022-06-13 17:54:24,849 INFO 3316 [Job#16551140641431720878739123001] D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js executing by app
+2022-06-13 17:54:25,035 INFO 3316 [Job#16551140645301720882611391001] D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js executing by app
+2022-06-13 17:54:25,126 INFO 3316 [Job#16551140640931720878240952001] D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js execute succeed, used 283ms. 
+2022-06-13 17:54:25,132 INFO 3316 [Job#16551140645301720882611391001] D:\person\qiankun\server\node_modules\_egg-multipart@2.13.1@egg-multipart\app\schedule\clean_tmpdir.js execute succeed, used 56ms. 
+2022-06-13 17:54:25,135 INFO 3316 [Job#16551140641431720878739123001] D:\person\qiankun\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js execute succeed, used 277ms. 
