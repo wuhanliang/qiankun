@@ -1,9 +1,9 @@
 const { Controller } = require("egg");
-const { successRes, failRes } = require("./../utils/helper");
+const { successRes, failRes } = require("../utils/helper");
 /**
  * @Controller 应用管理（wul）
  */
-class ApplicationController extends Controller {
+class AppController extends Controller {
   /**
    * @Summary 获取应用列表
    * @Router get /api/app/list
@@ -13,11 +13,11 @@ class ApplicationController extends Controller {
   async getApplist() {
     const { ctx } = this;
     try {
-      const list = await ctx.service.application.getAppList();
+      const list = await ctx.service.appService.getAppList();
       ctx.body = successRes(list);
     } catch (err) {
       ctx.body = failRes(err);
     }
   }
 }
-module.exports = ApplicationController;
+module.exports = AppController;

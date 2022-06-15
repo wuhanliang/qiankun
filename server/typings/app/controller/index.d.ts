@@ -2,12 +2,12 @@
 // Do not modify this file!!!!!!!!!
 
 import 'egg';
-import ExportApplicationController = require('../../../app/controller/applicationController');
+import ExportAppController = require('../../../app/controller/appController');
 import ExportHome = require('../../../app/controller/home');
 
 declare module 'egg' {
   interface IController {
-    applicationController: ExportApplicationController;
+    appController: ExportAppController;
     home: ExportHome;
   }
 }

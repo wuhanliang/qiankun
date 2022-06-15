@@ -47,6 +47,17 @@ module.exports = (appInfo) => {
       routerMap: false,
       enable: true,
     },
+    mysql: {
+      client: {
+        host: "localhost",
+        port: "3306",
+        user: "root",
+        password: "abc123QQQ",
+        database: "qk_system",
+      },
+      app: true,
+      agent: false,
+    },
   };
 
   return {

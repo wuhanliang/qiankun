@@ -18,13 +18,7 @@
 <script setup>
 import { getCurrentInstance } from 'vue'
 const {proxy } =  getCurrentInstance()
-const pushState = (url) => { 
-    window.history.pushState({temp: url}, url, url)
-    console.log(window.history)
-}
-const history = () => { 
-    console.log(window.history.state)
-}
+console.log(proxy.$fetch, '------------')
 </script>
 
 <style scoped>

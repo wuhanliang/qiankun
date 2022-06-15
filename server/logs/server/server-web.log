@@ -1,10 +1,6 @@
-2022-06-13 17:56:51,357 INFO 24804 [egg-swagger-doc] register router: get /swagger-doc
-2022-06-13 17:56:51,388 INFO 24804 [egg-swagger-doc] register router: get /swagger-ui.html
-2022-06-13 17:56:52,784 INFO 2000 [egg-swagger-doc] register router: get /swagger-doc
-2022-06-13 17:56:52,808 INFO 2000 [egg-swagger-doc] register router: get /swagger-ui.html
-2022-06-13 18:27:36,672 INFO 16924 [egg-swagger-doc] register router: get /swagger-doc
-2022-06-13 18:27:36,698 INFO 16924 [egg-swagger-doc] register router: get /swagger-ui.html
-2022-06-13 20:45:05,598 INFO 5568 [egg-swagger-doc] register router: get /swagger-doc
-2022-06-13 20:45:05,624 INFO 5568 [egg-swagger-doc] register router: get /swagger-ui.html
-2022-06-13 20:45:48,089 INFO 15304 [egg-swagger-doc] register router: get /swagger-doc
-2022-06-13 20:45:48,114 INFO 15304 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-06-15 00:17:26,811 INFO 26084 [egg-swagger-doc] register router: get /swagger-doc
+2022-06-15 00:17:26,875 INFO 26084 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-06-15 00:17:48,294 INFO 29576 [egg-swagger-doc] register router: get /swagger-doc
+2022-06-15 00:17:48,357 INFO 29576 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-06-15 00:18:20,393 INFO 25912 [egg-swagger-doc] register router: get /swagger-doc
+2022-06-15 00:18:20,430 INFO 25912 [egg-swagger-doc] register router: get /swagger-ui.html

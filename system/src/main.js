@@ -4,9 +4,22 @@ import App from "./App.vue";
 import ElementPlus from "element-plus";
 import "element-plus/dist/index.css";
 import Routes from "./routes";
+import "lodash";
 
 const render = (props) => {
-  createApp(App).use(Routes).use(ElementPlus).mount("#app");
+  // createApp(App).use(Routes).use(ElementPlus).mount("#app");
+  const app = createApp(App);
+  if (props) {
+    const { onGlobalStateChange } = props;
+    onGlobalStateChange((state) => {
+      _.forEach(state, (value, index) => {
+        app.config.globalProperties[index] = value;
+      });
+    }, true);
+  }
+  app.use(Routes);
+  app.use(ElementPlus);
+  app.mount("#app");
 };
 
 if (!window.__POWERED_BY_QIANKUN__) {

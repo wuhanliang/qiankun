@@ -1,9 +1,16 @@
-2022-06-13 17:56:52,631 ERROR 10604 nodejs.unhandledExceptionError: read ECONNRESET
-    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
-errno: -4077
-code: "ECONNRESET"
-syscall: "read"
-name: "unhandledExceptionError"
-pid: 10604
+2022-06-15 03:22:00,778 ERROR 29312 nodejs.ClusterClientNoResponseError: client no response in 10800217ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\person\qiankun\server\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 29312
+hostname: LAPTOP-0R88EIG3
+
+2022-06-15 09:01:55,735 ERROR 29312 nodejs.ClusterClientNoResponseError: client no response in 20394282ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\person\qiankun\server\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 29312
 hostname: LAPTOP-0R88EIG3
 

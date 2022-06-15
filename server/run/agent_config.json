@@ -89,7 +89,7 @@
     "onerror": {
       "errorPageUrl": "",
       "appErrorFilter": null,
-      "templatePath": "D:\\person\\qiankun\\server\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\lib\\onerror_page.mustache"
+      "templatePath": "D:\\person\\qiankun\\server\\node_modules\\egg-onerror\\lib\\onerror_page.mustache"
     },
     "i18n": {
       "defaultLocale": "en_US",
@@ -102,8 +102,8 @@
     "watcher": {
       "type": "development",
       "eventSources": {
-        "default": "D:\\person\\qiankun\\server\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\lib\\event-sources\\default",
-        "development": "D:\\person\\qiankun\\server\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\lib\\event-sources\\development"
+        "default": "D:\\person\\qiankun\\server\\node_modules\\egg-watcher\\lib\\event-sources\\default",
+        "development": "D:\\person\\qiankun\\server\\node_modules\\egg-watcher\\lib\\event-sources\\development"
       }
     },
     "customLogger": {
@@ -192,6 +192,21 @@
       "routerMap": false,
       "enable": true
     },
+    "mysql": {
+      "default": {
+        "database": null,
+        "connectionLimit": 5
+      },
+      "app": true,
+      "agent": false,
+      "client": {
+        "host": "localhost",
+        "port": "3306",
+        "user": "root",
+        "password": "<String len: 9>",
+        "database": "qk_system"
+      }
+    },
     "env": "local",
     "name": "server",
     "keys": "<String len: 25>",
@@ -222,6 +237,7 @@
         "egg-bin": "^4.11.0",
         "egg-ci": "^1.11.0",
         "egg-mock": "^3.21.0",
+        "egg-mysql": "^3.1.1",
         "eslint": "^5.13.0",
         "eslint-config-egg": "^7.1.0"
       },
@@ -364,8 +380,8 @@
         "jsonp"
       ],
       "env": [],
-      "from": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\plugin.js",
-      "path": "D:\\person\\qiankun\\server\\node_modules\\_egg-onerror@2.1.0@egg-onerror",
+      "from": "D:\\person\\qiankun\\server\\node_modules\\egg\\config\\plugin.js",
+      "path": "D:\\person\\qiankun\\server\\node_modules\\egg-onerror",
       "version": "2.1.0"
     },
     "session": {
@@ -375,8 +391,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\plugin.js",
-      "path": "D:\\person\\qiankun\\server\\node_modules\\_egg-session@3.3.0@egg-session",
+      "from": "D:\\person\\qiankun\\server\\node_modules\\egg\\config\\plugin.js",
+      "path": "D:\\person\\qiankun\\server\\node_modules\\egg-session",
       "version": "3.3.0"
     },
     "i18n": {
@@ -386,8 +402,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\plugin.js",
-      "path": "D:\\person\\qiankun\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n",
+      "from": "D:\\person\\qiankun\\server\\node_modules\\egg\\config\\plugin.js",
+      "path": "D:\\person\\qiankun\\server\\node_modules\\egg-i18n",
       "version": "2.1.1"
     },
     "watcher": {
@@ -397,8 +413,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\plugin.js",
-      "path": "D:\\person\\qiankun\\server\\node_modules\\_egg-watcher@3.1.1@egg-watcher",
+      "from": "D:\\person\\qiankun\\server\\node_modules\\egg\\config\\plugin.js",
+      "path": "D:\\person\\qiankun\\server\\node_modules\\egg-watcher",
       "version": "3.1.1"
     },
     "multipart": {
@@ -410,8 +426,8 @@
         "schedule"
       ],
       "env": [],
-      "from": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\plugin.js",
-      "path": "D:\\person\\qiankun\\server\\node_modules\\_egg-multipart@2.13.1@egg-multipart",
+      "from": "D:\\person\\qiankun\\server\\node_modules\\egg\\config\\plugin.js",
+      "path": "D:\\person\\qiankun\\server\\node_modules\\egg-multipart",
       "version": "2.13.1"
     },
     "security": {
@@ -423,8 +439,8 @@
         "session"
       ],
       "env": [],
-      "from": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\plugin.js",
-      "path": "D:\\person\\qiankun\\server\\node_modules\\_egg-security@2.10.1@egg-security",
+      "from": "D:\\person\\qiankun\\server\\node_modules\\egg\\config\\plugin.js",
+      "path": "D:\\person\\qiankun\\server\\node_modules\\egg-security",
       "version": "2.10.1"
     },
     "development": {
@@ -438,8 +454,8 @@
       "env": [
         "local"
       ],
-      "from": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\plugin.js",
-      "path": "D:\\person\\qiankun\\server\\node_modules\\_egg-development@2.7.0@egg-development",
+      "from": "D:\\person\\qiankun\\server\\node_modules\\egg\\config\\plugin.js",
+      "path": "D:\\person\\qiankun\\server\\node_modules\\egg-development",
       "version": "2.7.0"
     },
     "logrotator": {
@@ -451,8 +467,8 @@
       ],
       "optionalDependencies": [],
       "env": [],
-      "from": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\plugin.js",
-      "path": "D:\\person\\qiankun\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator",
+      "from": "D:\\person\\qiankun\\server\\node_modules\\egg\\config\\plugin.js",
+      "path": "D:\\person\\qiankun\\server\\node_modules\\egg-logrotator",
       "version": "3.1.0"
     },
     "schedule": {
@@ -462,8 +478,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\plugin.js",
-      "path": "D:\\person\\qiankun\\server\\node_modules\\_egg-schedule@3.6.6@egg-schedule",
+      "from": "D:\\person\\qiankun\\server\\node_modules\\egg\\config\\plugin.js",
+      "path": "D:\\person\\qiankun\\server\\node_modules\\egg-schedule",
       "version": "3.6.6"
     },
     "static": {
@@ -473,8 +489,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\plugin.js",
-      "path": "D:\\person\\qiankun\\server\\node_modules\\_egg-static@2.2.0@egg-static",
+      "from": "D:\\person\\qiankun\\server\\node_modules\\egg\\config\\plugin.js",
+      "path": "D:\\person\\qiankun\\server\\node_modules\\egg-static",
       "version": "2.2.0"
     },
     "jsonp": {
@@ -486,8 +502,8 @@
         "security"
       ],
       "env": [],
-      "from": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\plugin.js",
-      "path": "D:\\person\\qiankun\\server\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp",
+      "from": "D:\\person\\qiankun\\server\\node_modules\\egg\\config\\plugin.js",
+      "path": "D:\\person\\qiankun\\server\\node_modules\\egg-jsonp",
       "version": "2.0.0"
     },
     "view": {
@@ -497,8 +513,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "D:\\person\\qiankun\\server\\node_modules\\_egg@2.35.0@egg\\config\\plugin.js",
-      "path": "D:\\person\\qiankun\\server\\node_modules\\_egg-view@2.1.3@egg-view",
+      "from": "D:\\person\\qiankun\\server\\node_modules\\egg\\config\\plugin.js",
+      "path": "D:\\person\\qiankun\\server\\node_modules\\egg-view",
       "version": "2.1.3"
     },
     "cors": {
@@ -509,7 +525,7 @@
       "optionalDependencies": [],
       "env": [],
       "from": "D:\\person\\qiankun\\server\\config\\plugin.js",
-      "path": "D:\\person\\qiankun\\server\\node_modules\\_egg-cors@2.2.3@egg-cors",
+      "path": "D:\\person\\qiankun\\server\\node_modules\\egg-cors",
       "version": "2.2.3"
     },
     "swaggerdoc": {
@@ -520,8 +536,19 @@
       "optionalDependencies": [],
       "env": [],
       "from": "D:\\person\\qiankun\\server\\config\\plugin.js",
-      "path": "D:\\person\\qiankun\\server\\node_modules\\_egg-swagger-doc@2.3.2@egg-swagger-doc",
+      "path": "D:\\person\\qiankun\\server\\node_modules\\egg-swagger-doc",
       "version": "2.3.2"
+    },
+    "mysql": {
+      "enable": true,
+      "package": "egg-mysql",
+      "name": "mysql",
+      "dependencies": [],
+      "optionalDependencies": [],
+      "env": [],
+      "from": "D:\\person\\qiankun\\server\\config\\plugin.js",
+      "path": "D:\\person\\qiankun\\server\\node_modules\\egg-mysql",
+      "version": "3.1.1"
     }
   },
   "appInfo": {
@@ -549,6 +576,7 @@
         "egg-bin": "^4.11.0",
         "egg-ci": "^1.11.0",
         "egg-mock": "^3.21.0",
+        "egg-mysql": "^3.1.1",
         "eslint": "^5.13.0",
         "eslint-config-egg": "^7.1.0"
       },

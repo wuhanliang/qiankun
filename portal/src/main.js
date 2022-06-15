@@ -1,5 +1,5 @@
 import "./public-path";
-
+import "lodash";
 import { createApp } from "vue";
 import App from "./App.vue";
 import route from "./routes";
@@ -9,8 +9,10 @@ const render = (props) => {
 
   if (props) {
     const { onGlobalStateChange } = props;
-    onGlobalStateChange(({ axios }) => {
-      app.config.globalProperties.$fetch = axios;
+    onGlobalStateChange((state) => {
+      _.forEach(state, (value, index) => {
+        app.config.globalProperties[index] = value;
+      });
     }, true);
   }
   app.use(route);
@@ -39,7 +41,7 @@ export async function mount(props) {
 
   // props.onGlobalStateChange((state, prev) => {
   //   // state: 变更后的状态; prev 变更前的状态
-  //   console.log(state, prev);
+  //   console.log(state, prev, "微应用接收到了 主应用的共享消息");
   // }, true);
   // const appName = "home-poral";
   // props.setGlobalState(appName);

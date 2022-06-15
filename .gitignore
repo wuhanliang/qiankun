@@ -4,6 +4,7 @@
 /*/node_modules
 /*/dist
 /server/logs
+/server/run
  
 
 # testing

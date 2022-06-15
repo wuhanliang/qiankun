@@ -3,8 +3,8 @@ import style from "./index.module.css";
 import fetch from "./../../utils/axios";
 import { AxiosResponse } from "axios";
 import { Link } from "react-router-dom";
-// import { Button } from "antd";
-import { Avatar, List } from "antd";
+// import { Button } from "antd"; <DesktopOutlined />
+import { Avatar, List, Button } from "antd";
 export default class Home extends Component<any, any> {
   public state: any = {};
   constructor(props: any) {
@@ -24,18 +24,20 @@ export default class Home extends Component<any, any> {
   componentDidMount() {
     this.registryApp();
   }
+
   render() {
+    // const navigate = useNavigate();
     return (
       <div className={style.home}>
-        <List>
+        <div>
           {this.state.result.map((item: any, index: number) => {
             return (
-              <List.Item key={index} className="item">
-                <Link to={item.activeRule}> {item.title}</Link>
-              </List.Item>
+              <Button key={index} className="item">
+                <Link to={item.activeRule}>{item.name}</Link>
+              </Button>
             );
           })}
-        </List>
+        </div>
       </div>
     );
   }
