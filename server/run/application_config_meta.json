@@ -207,7 +207,9 @@
       "egg": "D:\\person\\qiankun\\server\\node_modules\\egg\\config\\config.default.js",
       "egg-cors": "D:\\person\\qiankun\\server\\node_modules\\egg\\config\\config.default.js",
       "egg-scripts": "D:\\person\\qiankun\\server\\node_modules\\egg\\config\\config.default.js",
-      "egg-swagger-doc": "D:\\person\\qiankun\\server\\node_modules\\egg\\config\\config.default.js"
+      "egg-swagger-doc": "D:\\person\\qiankun\\server\\node_modules\\egg\\config\\config.default.js",
+      "lodash": "D:\\person\\qiankun\\server\\node_modules\\egg\\config\\config.default.js",
+      "moment": "D:\\person\\qiankun\\server\\node_modules\\egg\\config\\config.default.js"
     },
     "devDependencies": {
       "autod": "D:\\person\\qiankun\\server\\node_modules\\egg\\config\\config.default.js",

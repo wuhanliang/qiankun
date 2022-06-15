@@ -3,8 +3,7 @@ import style from "./index.module.css";
 import fetch from "./../../utils/axios";
 import { AxiosResponse } from "axios";
 import { Link } from "react-router-dom";
-// import { Button } from "antd"; <DesktopOutlined />
-import { Avatar, List, Button } from "antd";
+import { Button } from "antd";
 export default class Home extends Component<any, any> {
   public state: any = {};
   constructor(props: any) {
@@ -14,6 +13,9 @@ export default class Home extends Component<any, any> {
   async registryApp() {
     const res: AxiosResponse<any, any> = await fetch({
       url: "/api/app/list",
+      params: {
+        parentId: 0,
+      },
     });
     if (res.data.success) {
       this.setState({
@@ -26,7 +28,6 @@ export default class Home extends Component<any, any> {
   }
 
   render() {
-    // const navigate = useNavigate();
     return (
       <div className={style.home}>
         <div>

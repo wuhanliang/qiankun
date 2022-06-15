@@ -13,6 +13,9 @@ export default class App extends Component {
   async registryApp() {
     const res: AxiosResponse<any, any> = await fetch({
       url: "/api/app/list",
+      params: {
+        parentId: 0,
+      },
     });
     if (res.data.success) {
       this.setState({
@@ -40,7 +43,7 @@ export default class App extends Component {
             <Route
               key={index}
               path={item.activeRule}
-              element={<div id="container" />} // 不是老版本的：component 或 render
+              element={<div id={item.container} />} // 不是老版本的：component 或 render
             />
           );
         })}

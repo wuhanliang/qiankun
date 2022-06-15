@@ -4,7 +4,7 @@ module.exports = {
   transpileDependencies: true,
   lintOnSave: false,
   devServer: {
-    port: 8080,
+    port: 10001,
     headers: {
       // 允许子应用跨域
       "Access-Control-Allow-Origin": "*",

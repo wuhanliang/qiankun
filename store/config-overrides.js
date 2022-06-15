@@ -3,11 +3,8 @@ module.exports = {
   webpack: (config) => {
     config.output.library = `${name}-[name]`;
     config.output.libraryTarget = "umd";
-    // config.output.jsonpFunction = `webpackJsonp_${name}`;
     config.output.globalObject = "window";
-    // config.output.publicPath =
-    //   process.env.NODE_ENV === "development" ? `//localhost:8003/` : "/";
-    config.output.publicPath = `http://localhost:8003/`;
+    config.output.publicPath = `${process.env.NODE_HOST}:${process.env.PORT}`;
     return config;
   },
 

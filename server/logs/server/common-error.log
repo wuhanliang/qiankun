@@ -14,3 +14,103 @@ name: "ClusterClientNoResponseError"
 pid: 29312
 hostname: LAPTOP-0R88EIG3
 
+2022-06-15 13:41:51,803 ERROR 3604 nodejs.ClusterClientNoResponseError: client no response in 6100697ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\person\qiankun\server\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 3604
+hostname: LAPTOP-0R88EIG3
+
+2022-06-15 13:43:25,848 ERROR 3604 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 3604
+hostname: LAPTOP-0R88EIG3
+
+2022-06-15 14:43:34,588 ERROR 26248 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 26248
+hostname: LAPTOP-0R88EIG3
+
+2022-06-15 15:21:17,442 ERROR 26248 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 26248
+hostname: LAPTOP-0R88EIG3
+
+2022-06-15 15:27:38,376 ERROR 3220 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 3220
+hostname: LAPTOP-0R88EIG3
+
+2022-06-15 15:34:41,536 ERROR 3220 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 3220
+hostname: LAPTOP-0R88EIG3
+
+2022-06-15 15:42:36,916 ERROR 26192 [-/::1/-/25ms POST /api/app/createOrUpdate] nodejs.TypeError: Cannot destructure property 'name' of 'ctx.body' as it is undefined.
+    at ApplicationService.createOrUpdate (D:\person\qiankun\server\app\service\appService.js:33:13)
+    at AppController.createOrUpdate (D:\person\qiankun\server\app\controller\appController.js:27:47)
+    at Object.callFn (D:\person\qiankun\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\person\qiankun\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\person\qiankun\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\person\qiankun\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 26192
+hostname: LAPTOP-0R88EIG3
+
+2022-06-15 15:43:39,888 ERROR 3220 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 3220
+hostname: LAPTOP-0R88EIG3
+
+2022-06-15 16:34:53,167 ERROR 15892 [-/::1/-/18ms POST /api/app/createOrUpdate] nodejs.ReferenceError: parentId is not defined
+    at ApplicationService.createOrUpdate (D:\person\qiankun\server\app\service\appService.js:39:18)
+    at AppController.createOrUpdate (D:\person\qiankun\server\app\controller\appController.js:27:47)
+    at Object.callFn (D:\person\qiankun\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\person\qiankun\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\person\qiankun\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\person\qiankun\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 15892
+hostname: LAPTOP-0R88EIG3
+
+2022-06-15 18:57:18,853 ERROR 3220 nodejs.ClusterClientNoResponseError: client no response in 7656403ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\person\qiankun\server\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 3220
+hostname: LAPTOP-0R88EIG3
+
