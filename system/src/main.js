@@ -5,6 +5,7 @@ import ElementPlus from "element-plus";
 import "element-plus/dist/index.css";
 import Routes from "./routes";
 import "lodash";
+import * as ElementPlusIconsVue from "@element-plus/icons-vue";
 
 const render = (props) => {
   // createApp(App).use(Routes).use(ElementPlus).mount("#app");
@@ -16,6 +17,9 @@ const render = (props) => {
         app.config.globalProperties[index] = value;
       });
     }, true);
+  }
+  for (const [key, component] of Object.entries(ElementPlusIconsVue)) {
+    app.component(key, component);
   }
   app.use(Routes);
   app.use(ElementPlus);

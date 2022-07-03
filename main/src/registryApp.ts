@@ -13,6 +13,7 @@ export const registry = async () => {
   if (res.data.success) {
     const apps = res.data.data.map((item: any) => { 
       item.container = `#${item.container}`
+      item.name = item.package_name
       return item
     });
     registerMicroApps(apps);

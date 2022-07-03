@@ -2,15 +2,19 @@
   <div>
     <CreateOrEditVue ref="createOrEdit" @changeLink="getSystemAppList"/>
     <el-table :data="dataSource" style="width: 100%">
-      <el-table-column prop="name" label="Name" width="180" />
+      <el-table-column prop="name" label="名称" width="180" />
+      <!-- <el-table-column prop="address" label="Address" />
       <el-table-column prop="address" label="Address" />
       <el-table-column prop="address" label="Address" />
       <el-table-column prop="address" label="Address" />
       <el-table-column prop="address" label="Address" />
-      <el-table-column prop="address" label="Address" />
-      <el-table-column prop="address" label="Address" />
-      <el-table-column prop="address" label="Address" />
-
+      <el-table-column prop="address" label="Address" /> -->
+      <el-table-column prop="technology_stack" label="架构" />
+      <el-table-column prop="technology_stack" label="下载模板" >
+        <a href="">
+          <Download style="width: 1em; height: 1em; margin-right: 8px" />
+        </a>
+      </el-table-column>
       <el-table-column prop="create_time" label="创建时间" width="180" />
       <el-table-column prop="update_time" label="更新时间" width="180" />
       <el-table-column prop="actions" label="操作" width="280">
@@ -28,6 +32,7 @@
 import { getCurrentInstance, onMounted, ref } from "vue";
 import CreateOrEditVue from "./components/createOrEdit";
 const { proxy } = getCurrentInstance();
+ 
 // import { Delete, Edit, Search, Share, Upload } from 'element-plus/icons-vue'
 // 列表数据业务
 let dataSource = ref([]);

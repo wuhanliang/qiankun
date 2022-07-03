@@ -53,10 +53,23 @@ module.exports = (appInfo) => {
         port: "3306",
         user: "root",
         password: "abc123QQQ",
-        database: "qk_system",
+        database: "late",
       },
       app: true,
       agent: false,
+    },
+    view: {
+      mapping: {
+        ".html": "ejs",
+      },
+    },
+    mongoose: {
+      url: "localhost:7001",
+      options: {
+        server: {
+          poolSize: 40,
+        },
+      },
     },
   };
 

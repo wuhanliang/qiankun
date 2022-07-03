@@ -92,6 +92,15 @@
       "connectionLimit": "D:\\person\\qiankun\\server\\node_modules\\egg-mysql\\config\\config.default.js"
     }
   },
+  "view": {
+    "mapping": {
+      ".html": "D:\\person\\qiankun\\server\\config\\config.default.js"
+    },
+    "root": "D:\\person\\qiankun\\server\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "D:\\person\\qiankun\\server\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "D:\\person\\qiankun\\server\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "D:\\person\\qiankun\\server\\node_modules\\egg-view\\config\\config.default.js"
+  },
   "session": {
     "maxAge": "D:\\person\\qiankun\\server\\node_modules\\egg-session\\config\\config.default.js",
     "key": "D:\\person\\qiankun\\server\\node_modules\\egg-session\\config\\config.default.js",
@@ -179,12 +188,13 @@
     "buffer": "D:\\person\\qiankun\\server\\node_modules\\egg-static\\config\\config.default.js",
     "maxFiles": "D:\\person\\qiankun\\server\\node_modules\\egg-static\\config\\config.default.js"
   },
-  "view": {
-    "root": "D:\\person\\qiankun\\server\\node_modules\\egg-view\\config\\config.default.js",
-    "cache": "D:\\person\\qiankun\\server\\node_modules\\egg-view\\config\\config.local.js",
-    "defaultExtension": "D:\\person\\qiankun\\server\\node_modules\\egg-view\\config\\config.default.js",
-    "defaultViewEngine": "D:\\person\\qiankun\\server\\node_modules\\egg-view\\config\\config.default.js",
-    "mapping": "D:\\person\\qiankun\\server\\node_modules\\egg-view\\config\\config.default.js"
+  "ejs": {
+    "root": "D:\\person\\qiankun\\server\\node_modules\\egg-view-ejs\\config\\config.default.js",
+    "cache": "D:\\person\\qiankun\\server\\node_modules\\egg-view-ejs\\config\\config.local.js",
+    "debug": "D:\\person\\qiankun\\server\\node_modules\\egg-view-ejs\\config\\config.default.js",
+    "compileDebug": "D:\\person\\qiankun\\server\\node_modules\\egg-view-ejs\\config\\config.default.js",
+    "delimiter": "D:\\person\\qiankun\\server\\node_modules\\egg-view-ejs\\config\\config.default.js",
+    "strict": "D:\\person\\qiankun\\server\\node_modules\\egg-view-ejs\\config\\config.default.js"
   },
   "env": "D:\\person\\qiankun\\server\\node_modules\\egg\\config\\config.default.js",
   "name": "D:\\person\\qiankun\\server\\node_modules\\egg\\config\\config.default.js",
@@ -208,6 +218,7 @@
       "egg-cors": "D:\\person\\qiankun\\server\\node_modules\\egg\\config\\config.default.js",
       "egg-scripts": "D:\\person\\qiankun\\server\\node_modules\\egg\\config\\config.default.js",
       "egg-swagger-doc": "D:\\person\\qiankun\\server\\node_modules\\egg\\config\\config.default.js",
+      "egg-view-ejs": "D:\\person\\qiankun\\server\\node_modules\\egg\\config\\config.default.js",
       "lodash": "D:\\person\\qiankun\\server\\node_modules\\egg\\config\\config.default.js",
       "moment": "D:\\person\\qiankun\\server\\node_modules\\egg\\config\\config.default.js"
     },

@@ -3,11 +3,13 @@
 
 import 'egg';
 import ExportAppController = require('../../../app/controller/appController');
+import ExportAuth = require('../../../app/controller/auth');
 import ExportHome = require('../../../app/controller/home');
 
 declare module 'egg' {
   interface IController {
     appController: ExportAppController;
+    auth: ExportAuth;
     home: ExportHome;
   }
 }

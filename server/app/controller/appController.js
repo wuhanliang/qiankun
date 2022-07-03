@@ -13,7 +13,6 @@ class AppController extends Controller {
    */
   async getApplist() {
     const { ctx } = this;
-
     try {
       const list = await ctx.service.appService.getAppList();
       ctx.body = successRes(list);
@@ -21,12 +20,15 @@ class AppController extends Controller {
       ctx.body = failRes(err);
     }
   }
-
+  /**
+   * @Summary 新增和编辑
+   * @Router post /api/app/list
+   * @Request body. 类型：string name 应用名称
+   * @Request body. 类型：string parentId 上级应用id
+   *
+   */
   async createOrUpdate() {
     const { ctx } = this;
-    const list = await ctx.service.appService.createOrUpdate();
-    ctx.body = successRes(list);
-
     try {
       const list = await ctx.service.appService.createOrUpdate();
       ctx.body = successRes(list);

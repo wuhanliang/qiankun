@@ -1,5 +1,13 @@
 "use strict";
 
+/**
+ * @Summary 统一成功返回类型
+ * @param {*} data
+ * @param {*} code
+ * @param {*} msg
+ * @returns
+ *
+ */
 exports.successRes = (data, code, msg) => {
   return {
     code: code || 200,
@@ -9,6 +17,13 @@ exports.successRes = (data, code, msg) => {
   };
 };
 
+/**
+ * @Summary 统一失败类型返回
+ * @param {*} data
+ * @param {*} code
+ * @param {*} msg
+ * @returns
+ */
 exports.failRes = (data, code, msg) => {
   return {
     code: code || 500,

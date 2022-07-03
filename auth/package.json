@@ -12,8 +12,14 @@
     "start": "node scripts/index.js && vue-cli-service serve"
   },
   "dependencies": {
+    "axios": "^0.27.2",
+    "babel-plugin-import": "^1.13.5",
     "core-js": "^3.8.3",
-    "vue": "^3.2.13"
+    "node-sass": "^7.0.1",
+    "sass-loader": "^13.0.0",
+    "view-ui-plus": "^1.2.0",
+    "vue": "^3.2.13",
+    "vue-router": "^4.0.16"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
