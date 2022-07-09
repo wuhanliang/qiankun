@@ -4,11 +4,9 @@
  * @param {Egg.Application} app - egg application
  */
 module.exports = (app) => {
+  // 引入模块路由
+  require("./auth/index.js")(app);
+
   const { router, controller } = app;
   router.get("/", controller.home.index);
-  router.get("/api/app/list", controller.appController.getApplist);
-  router.post(
-    "/api/app/createOrUpdate",
-    controller.appController.createOrUpdate
-  );
 };

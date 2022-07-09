@@ -192,3 +192,424 @@ name: "unhandledExceptionError"
 pid: 16000
 hostname: LAPTOP-0R88EIG3
 
+2022-07-03 11:12:01,346 ERROR 16000 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16000
+hostname: LAPTOP-0R88EIG3
+
+2022-07-03 11:12:43,682 ERROR 16000 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16000
+hostname: LAPTOP-0R88EIG3
+
+2022-07-08 10:26:11,181 ERROR 16000 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16000
+hostname: LAPTOP-0R88EIG3
+
+2022-07-08 10:26:18,078 ERROR 16000 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16000
+hostname: LAPTOP-0R88EIG3
+
+2022-07-08 10:26:24,537 ERROR 16000 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16000
+hostname: LAPTOP-0R88EIG3
+
+2022-07-08 15:44:33,226 ERROR 9588 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 9588
+hostname: LAPTOP-0R88EIG3
+
+2022-07-08 15:52:12,628 ERROR 23632 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 23632
+hostname: LAPTOP-0R88EIG3
+
+2022-07-08 15:52:32,385 ERROR 23632 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 23632
+hostname: LAPTOP-0R88EIG3
+
+2022-07-08 16:18:40,381 ERROR 8900 [-/::1/-/3ms POST /api/auth/login] nodejs.TypeError: Cannot read properties of undefined (reading 'select')
+    at AuthService.login (D:\person\qiankun\server\app\service\auth.js:6:28)
+    at AuthController.login (D:\person\qiankun\server\app\controller\auth.js:19:41)
+    at Object.callFn (D:\person\qiankun\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\person\qiankun\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\person\qiankun\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\person\qiankun\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 8900
+hostname: LAPTOP-0R88EIG3
+
+2022-07-08 16:21:04,729 ERROR 24148 [-/::1/-/3ms POST /api/auth/login] nodejs.TypeError: Cannot read properties of undefined (reading 'select')
+    at AuthService.login (D:\person\qiankun\server\app\service\auth.js:6:28)
+    at AuthController.login (D:\person\qiankun\server\app\controller\auth.js:19:41)
+    at Object.callFn (D:\person\qiankun\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\person\qiankun\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\person\qiankun\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\person\qiankun\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 24148
+hostname: LAPTOP-0R88EIG3
+
+2022-07-08 16:28:51,035 ERROR 15296 [-/::1/-/18ms POST /api/auth/registry] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'passworld' in 'field list'
+    at Query.Sequence._packetToError (D:\person\qiankun\server\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\person\qiankun\server\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (D:\person\qiankun\server\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (D:\person\qiankun\server\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (D:\person\qiankun\server\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (D:\person\qiankun\server\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\person\qiankun\server\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (D:\person\qiankun\server\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (node:events:527:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Pool.query (D:\person\qiankun\server\node_modules\mysql\lib\Pool.js:199:23)
+    at D:\person\qiankun\server\node_modules\pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\person\qiankun\server\node_modules\pify\index.js:12:10)
+    at Pool.ret [as query] (D:\person\qiankun\server\node_modules\pify\index.js:56:34)
+    at RDSClient.proto._query (D:\person\qiankun\server\node_modules\ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (D:\person\qiankun\server\node_modules\ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\person\qiankun\server\node_modules\co\index.js:65:19)
+    at D:\person\qiankun\server\node_modules\co\index.js:54:5
+    sql: INSERT INTO `users`(`user_name`, `passworld`, `nick_name`) VALUES(NULL, NULL, NULL)
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'passworld' in 'field list'"
+sqlState: "42S22"
+index: 0
+sql: "INSERT INTO `users`(`user_name`, `passworld`, `nick_name`) VALUES(NULL, NULL, NULL)"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_BAD_FIELD_ERRORError"
+pid: 15296
+hostname: LAPTOP-0R88EIG3
+
+2022-07-08 16:44:45,559 ERROR 9536 nodejs.ClusterClientNoResponseError: client no response in 842550ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\person\qiankun\server\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 9536
+hostname: LAPTOP-0R88EIG3
+
+2022-07-09 16:08:49,716 ERROR 10356 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10356
+hostname: LAPTOP-0R88EIG3
+
+2022-07-09 17:10:03,160 ERROR 10356 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10356
+hostname: LAPTOP-0R88EIG3
+
+2022-07-09 17:10:18,954 ERROR 18664 [-/::1/-/31ms POST /api/auth/registry] nodejs.TypeError: Cannot read properties of undefined (reading 'User')
+    at AuthService.registry (D:\person\qiankun\server\app\service\auth.js:20:27)
+    at AuthController.registry (D:\person\qiankun\server\app\controller\auth.js:30:41)
+    at Object.callFn (D:\person\qiankun\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\person\qiankun\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\person\qiankun\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\person\qiankun\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 18664
+hostname: LAPTOP-0R88EIG3
+
+2022-07-09 18:04:56,104 ERROR 6292 [-/::1/-/50ms POST /api/auth/registry] nodejs.TypeError: ctx.model.User.find is not a function
+    at AuthService.registry (D:\person\qiankun\server\app\service\auth.js:20:39)
+    at AuthController.registry (D:\person\qiankun\server\app\controller\auth.js:30:41)
+    at Object.callFn (D:\person\qiankun\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\person\qiankun\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\person\qiankun\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\person\qiankun\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 6292
+hostname: LAPTOP-0R88EIG3
+
+2022-07-09 18:05:18,069 ERROR 11248 [-/::1/-/29ms POST /api/auth/registry] nodejs.TypeError: ctx.model.User.find is not a function
+    at AuthService.registry (D:\person\qiankun\server\app\service\auth.js:20:39)
+    at AuthController.registry (D:\person\qiankun\server\app\controller\auth.js:30:41)
+    at Object.callFn (D:\person\qiankun\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\person\qiankun\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\person\qiankun\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\person\qiankun\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 11248
+hostname: LAPTOP-0R88EIG3
+
+2022-07-09 18:05:58,491 ERROR 28324 [-/::1/-/29ms POST /api/auth/registry] nodejs.TypeError: ctx.model.User.find is not a function
+    at AuthService.registry (D:\person\qiankun\server\app\service\auth.js:20:39)
+    at AuthController.registry (D:\person\qiankun\server\app\controller\auth.js:30:41)
+    at Object.callFn (D:\person\qiankun\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\person\qiankun\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\person\qiankun\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\person\qiankun\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 28324
+hostname: LAPTOP-0R88EIG3
+
+2022-07-09 18:06:22,052 ERROR 19840 [-/::1/-/28ms POST /api/auth/registry] nodejs.TypeError: ctx.model.User.find is not a function
+    at AuthService.registry (D:\person\qiankun\server\app\service\auth.js:20:39)
+    at AuthController.registry (D:\person\qiankun\server\app\controller\auth.js:30:41)
+    at Object.callFn (D:\person\qiankun\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\person\qiankun\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\person\qiankun\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\person\qiankun\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 19840
+hostname: LAPTOP-0R88EIG3
+
+2022-07-09 18:06:48,860 ERROR 28832 [-/::1/-/26ms POST /api/auth/registry] nodejs.TypeError: ctx.model.User.find is not a function
+    at AuthService.registry (D:\person\qiankun\server\app\service\auth.js:20:39)
+    at AuthController.registry (D:\person\qiankun\server\app\controller\auth.js:30:41)
+    at Object.callFn (D:\person\qiankun\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\person\qiankun\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\person\qiankun\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\person\qiankun\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 28832
+hostname: LAPTOP-0R88EIG3
+
+2022-07-09 18:07:24,107 ERROR 28832 [-/::1/-/2ms POST /api/auth/registry] nodejs.TypeError: ctx.model.User.find is not a function
+    at AuthService.registry (D:\person\qiankun\server\app\service\auth.js:20:39)
+    at AuthController.registry (D:\person\qiankun\server\app\controller\auth.js:30:41)
+    at Object.callFn (D:\person\qiankun\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\person\qiankun\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\person\qiankun\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\person\qiankun\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 28832
+hostname: LAPTOP-0R88EIG3
+
+2022-07-09 18:10:25,668 ERROR 7140 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 7140
+hostname: LAPTOP-0R88EIG3
+
+2022-07-09 18:41:05,154 ERROR 7140 nodejs.ClusterClientNoResponseError: client no response in 267265ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\person\qiankun\server\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 7140
+hostname: LAPTOP-0R88EIG3
+
+2022-07-09 19:14:24,555 ERROR 13188 [-/::1/-/20ms POST /api/auth/login] nodejs.TypeError: ctx.service.auth.logn is not a function
+    at AuthController.login (D:\person\qiankun\server\app\controller\auth.js:16:39)
+    at Object.callFn (D:\person\qiankun\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\person\qiankun\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\person\qiankun\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\person\qiankun\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 13188
+hostname: LAPTOP-0R88EIG3
+
+2022-07-09 19:14:49,912 ERROR 25844 [-/::1/-/15ms POST /api/auth/login] nodejs.TypeError: ctx.service.auth.logn is not a function
+    at AuthController.login (D:\person\qiankun\server\app\controller\auth.js:16:39)
+    at Object.callFn (D:\person\qiankun\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\person\qiankun\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\person\qiankun\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\person\qiankun\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 25844
+hostname: LAPTOP-0R88EIG3
+
+2022-07-09 19:15:15,869 ERROR 10564 [-/::1/-/14ms POST /api/auth/login] nodejs.TypeError: ctx.service.auth.logn is not a function
+    at AuthController.login (D:\person\qiankun\server\app\controller\auth.js:16:39)
+    at Object.callFn (D:\person\qiankun\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\person\qiankun\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\person\qiankun\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\person\qiankun\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 10564
+hostname: LAPTOP-0R88EIG3
+
+2022-07-09 19:15:37,942 ERROR 10564 [-/::1/-/4ms POST /api/auth/login] nodejs.TypeError: ctx.service.auth.logn is not a function
+    at AuthController.login (D:\person\qiankun\server\app\controller\auth.js:16:39)
+    at Object.callFn (D:\person\qiankun\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\person\qiankun\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\person\qiankun\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\person\qiankun\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 10564
+hostname: LAPTOP-0R88EIG3
+
+2022-07-09 19:15:55,625 ERROR 26408 [-/::1/-/16ms POST /api/auth/login] nodejs.TypeError: ctx.service.auth.logn is not a function
+    at AuthController.login (D:\person\qiankun\server\app\controller\auth.js:16:39)
+    at Object.callFn (D:\person\qiankun\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\person\qiankun\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\person\qiankun\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\person\qiankun\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 26408
+hostname: LAPTOP-0R88EIG3
+
+2022-07-09 19:16:15,198 ERROR 23752 [-/::1/-/18ms POST /api/auth/login] nodejs.TypeError: ctx.service.auth.logn is not a function
+    at AuthController.login (D:\person\qiankun\server\app\controller\auth.js:16:39)
+    at Object.callFn (D:\person\qiankun\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\person\qiankun\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\person\qiankun\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\person\qiankun\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 23752
+hostname: LAPTOP-0R88EIG3
+
+2022-07-09 19:17:00,006 ERROR 25332 [-/::1/-/20ms POST /api/auth/login] nodejs.TypeError: ctx.service.auth.logn is not a function
+    at AuthController.login (D:\person\qiankun\server\app\controller\auth.js:16:39)
+    at Object.callFn (D:\person\qiankun\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\person\qiankun\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\person\qiankun\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\person\qiankun\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 25332
+hostname: LAPTOP-0R88EIG3
+
+2022-07-09 19:17:51,979 ERROR 18664 [-/::1/-/19ms POST /api/auth/login] nodejs.TypeError: ctx.service.auth.logn is not a function
+    at AuthController.login (D:\person\qiankun\server\app\controller\auth.js:16:41)
+    at Object.callFn (D:\person\qiankun\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\person\qiankun\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\person\qiankun\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\person\qiankun\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 18664
+hostname: LAPTOP-0R88EIG3
+
+2022-07-09 22:19:29,003 ERROR 28452 nodejs.ClusterClientNoResponseError: client no response in 10302095ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\person\qiankun\server\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 28452
+hostname: LAPTOP-0R88EIG3
+
+2022-07-09 22:19:59,204 ERROR 28452 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 28452
+hostname: LAPTOP-0R88EIG3
+

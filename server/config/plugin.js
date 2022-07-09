@@ -10,6 +10,10 @@ module.exports = {
     enable: true,
     package: "egg-view-ejs",
   },
+  jwt: {
+    enable: true,
+    package: "egg-jwt",
+  },
   cors: {
     enable: true,
     package: "egg-cors",
@@ -22,8 +26,8 @@ module.exports = {
     enable: true,
     package: "egg-mysql",
   },
-  mongoose: {
+  sequelize: {
     enable: true,
-    package: "egg-mongoose",
+    package: "egg-sequelize",
   },
 };

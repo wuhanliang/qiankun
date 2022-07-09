@@ -183,3 +183,938 @@ hostname: LAPTOP-0R88EIG3
 2022-06-16 18:18:16,461 INFO 23592 [egg-swagger-doc] register router: get /swagger-ui.html
 2022-06-16 18:18:22,982 INFO 20888 [egg-swagger-doc] register router: get /swagger-doc
 2022-06-16 18:18:23,014 INFO 20888 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 15:07:08,365 INFO 12380 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 15:07:08,401 INFO 12380 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 15:11:25,609 INFO 21872 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 15:11:25,639 INFO 21872 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 15:11:49,170 INFO 17348 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 15:11:49,198 INFO 17348 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 15:12:00,939 INFO 1136 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 15:12:00,964 INFO 1136 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 15:12:05,027 INFO 13644 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 15:12:05,053 INFO 13644 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 15:24:24,084 INFO 13580 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 15:24:24,111 INFO 13580 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 15:24:29,345 INFO 3580 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 15:24:29,371 INFO 3580 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 15:35:19,898 INFO 1920 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 15:35:19,924 INFO 1920 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 15:35:23,833 INFO 7620 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 15:35:23,859 INFO 7620 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 15:35:35,977 INFO 11744 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 15:35:36,002 INFO 11744 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 15:37:08,255 INFO 23384 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 15:37:08,282 INFO 23384 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 15:38:18,731 INFO 15844 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 15:38:18,762 INFO 15844 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 15:38:22,260 INFO 2680 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 15:38:22,286 INFO 2680 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 15:39:05,098 INFO 19496 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 15:39:05,124 INFO 19496 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 15:39:26,787 INFO 12200 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 15:39:26,813 INFO 12200 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 15:43:33,585 INFO 23772 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 15:43:33,610 INFO 23772 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 15:43:57,263 INFO 13720 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 15:43:57,291 INFO 13720 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 15:47:58,357 INFO 12876 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 15:47:58,385 INFO 12876 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 15:48:10,445 INFO 1640 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 15:48:10,476 INFO 1640 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 15:50:39,030 INFO 19956 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 15:50:39,055 INFO 19956 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 15:52:45,245 INFO 21368 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 15:52:45,272 INFO 21368 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 15:53:56,028 INFO 5600 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 15:53:56,055 INFO 5600 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 15:54:17,304 INFO 15168 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 15:54:17,336 INFO 15168 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 15:55:21,897 INFO 4404 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 15:55:21,923 INFO 4404 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 15:55:49,609 INFO 11056 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 15:55:49,633 INFO 11056 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 15:56:33,358 INFO 23472 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 15:56:33,384 INFO 23472 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 15:57:13,121 INFO 7584 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 15:57:13,244 INFO 7584 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 15:57:55,793 INFO 15540 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 15:57:55,827 INFO 15540 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 15:59:37,400 INFO 12048 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 15:59:37,428 INFO 12048 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 16:02:14,439 INFO 15988 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 16:02:14,465 INFO 15988 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 16:05:18,131 INFO 12248 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 16:05:18,168 INFO 12248 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 16:06:00,385 INFO 7152 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 16:06:00,412 INFO 7152 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 16:06:31,205 INFO 6224 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 16:06:31,233 INFO 6224 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 16:06:39,565 INFO 6520 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 16:06:39,591 INFO 6520 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 16:09:27,057 INFO 16868 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 16:09:27,082 INFO 16868 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 16:09:28,373 INFO 6340 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 16:09:28,402 INFO 6340 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 16:09:58,473 INFO 14564 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 16:09:58,502 INFO 14564 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 16:10:27,735 INFO 19272 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 16:10:27,788 INFO 19272 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 16:11:18,406 INFO 12672 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 16:11:18,434 INFO 12672 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 16:11:36,085 INFO 19592 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 16:11:36,111 INFO 19592 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 16:13:24,891 INFO 6576 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 16:13:24,916 INFO 6576 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 16:15:03,596 INFO 20932 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 16:15:03,621 INFO 20932 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 16:17:18,814 INFO 14112 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 16:17:18,841 INFO 14112 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 16:17:27,392 INFO 12692 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 16:17:27,418 INFO 12692 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 16:18:20,770 INFO 16392 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 16:18:20,796 INFO 16392 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 16:18:22,309 INFO 8900 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 16:18:22,335 INFO 8900 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 16:18:40,383 ERROR 8900 [-/::1/-/3ms POST /api/auth/login] nodejs.TypeError: Cannot read properties of undefined (reading 'select')
+    at AuthService.login (D:\person\qiankun\server\app\service\auth.js:6:28)
+    at AuthController.login (D:\person\qiankun\server\app\controller\auth.js:19:41)
+    at Object.callFn (D:\person\qiankun\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\person\qiankun\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\person\qiankun\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\person\qiankun\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 8900
+hostname: LAPTOP-0R88EIG3
+
+2022-07-08 16:20:54,592 INFO 24148 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 16:20:54,620 INFO 24148 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 16:21:04,730 ERROR 24148 [-/::1/-/3ms POST /api/auth/login] nodejs.TypeError: Cannot read properties of undefined (reading 'select')
+    at AuthService.login (D:\person\qiankun\server\app\service\auth.js:6:28)
+    at AuthController.login (D:\person\qiankun\server\app\controller\auth.js:19:41)
+    at Object.callFn (D:\person\qiankun\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\person\qiankun\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\person\qiankun\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\person\qiankun\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 24148
+hostname: LAPTOP-0R88EIG3
+
+2022-07-08 16:21:43,256 INFO 14660 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 16:21:43,283 INFO 14660 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 16:22:16,122 INFO 6084 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 16:22:16,151 INFO 6084 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 16:22:24,126 INFO 1956 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 16:22:24,152 INFO 1956 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 16:23:06,321 INFO 18860 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 16:23:06,349 INFO 18860 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 16:26:29,116 INFO 17776 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 16:26:29,145 INFO 17776 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 16:27:17,384 INFO 1384 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 16:27:17,410 INFO 1384 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 16:28:07,118 INFO 22540 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 16:28:07,145 INFO 22540 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 16:28:46,685 INFO 15296 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 16:28:46,715 INFO 15296 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 16:28:51,036 ERROR 15296 [-/::1/-/18ms POST /api/auth/registry] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'passworld' in 'field list'
+    at Query.Sequence._packetToError (D:\person\qiankun\server\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (D:\person\qiankun\server\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (D:\person\qiankun\server\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (D:\person\qiankun\server\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (D:\person\qiankun\server\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (D:\person\qiankun\server\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (D:\person\qiankun\server\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (D:\person\qiankun\server\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (node:events:527:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Pool.query (D:\person\qiankun\server\node_modules\mysql\lib\Pool.js:199:23)
+    at D:\person\qiankun\server\node_modules\pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (D:\person\qiankun\server\node_modules\pify\index.js:12:10)
+    at Pool.ret [as query] (D:\person\qiankun\server\node_modules\pify\index.js:56:34)
+    at RDSClient.proto._query (D:\person\qiankun\server\node_modules\ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (D:\person\qiankun\server\node_modules\ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (D:\person\qiankun\server\node_modules\co\index.js:65:19)
+    at D:\person\qiankun\server\node_modules\co\index.js:54:5
+    sql: INSERT INTO `users`(`user_name`, `passworld`, `nick_name`) VALUES(NULL, NULL, NULL)
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'passworld' in 'field list'"
+sqlState: "42S22"
+index: 0
+sql: "INSERT INTO `users`(`user_name`, `passworld`, `nick_name`) VALUES(NULL, NULL, NULL)"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_BAD_FIELD_ERRORError"
+pid: 15296
+hostname: LAPTOP-0R88EIG3
+
+2022-07-08 16:29:37,215 INFO 18280 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 16:29:37,247 INFO 18280 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 16:29:42,933 INFO 12816 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 16:29:42,962 INFO 12816 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 16:52:45,728 INFO 25324 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 16:52:45,763 INFO 25324 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 16:52:47,472 INFO 6592 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 16:52:47,499 INFO 6592 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 16:53:49,241 INFO 15528 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 16:53:49,266 INFO 15528 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-08 17:01:26,258 INFO 15928 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-08 17:01:26,286 INFO 15928 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 14:47:02,990 INFO 16144 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 14:47:03,029 INFO 16144 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 14:47:04,556 INFO 21884 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 14:47:04,584 INFO 21884 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 14:47:06,479 INFO 29736 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 14:47:06,512 INFO 29736 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 14:49:44,684 INFO 17248 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 14:49:44,711 INFO 17248 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 14:50:15,112 INFO 25112 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 14:50:15,140 INFO 25112 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 15:28:44,714 INFO 29280 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 15:28:44,750 INFO 29280 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 15:29:31,769 INFO 11608 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 15:29:31,796 INFO 11608 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 15:32:21,091 INFO 17108 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 15:32:21,119 INFO 17108 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 15:33:46,178 INFO 21656 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 15:33:46,205 INFO 21656 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 15:36:11,101 INFO 12184 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 15:36:11,129 INFO 12184 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 15:36:35,947 INFO 26660 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 15:36:35,973 INFO 26660 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 15:36:54,677 INFO 29096 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 15:36:54,703 INFO 29096 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 15:36:57,932 INFO 15920 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 15:36:57,957 INFO 15920 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 15:42:15,337 INFO 25060 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 15:42:15,362 INFO 25060 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 15:57:58,449 INFO 30400 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 15:57:58,477 INFO 30400 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 15:58:23,495 INFO 4232 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 15:58:23,522 INFO 4232 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:00:33,511 INFO 26512 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:00:33,538 INFO 26512 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:01:23,296 INFO 25208 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:01:23,323 INFO 25208 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:02:40,077 INFO 22292 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:02:40,119 INFO 22292 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:08:24,806 INFO 26596 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:08:24,832 INFO 26596 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:08:30,433 INFO 25668 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:08:30,462 INFO 25668 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:08:36,858 INFO 7324 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:08:36,884 INFO 7324 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:08:47,997 INFO 11552 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:08:48,059 INFO 11552 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:08:49,836 INFO 25016 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:08:49,864 INFO 25016 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:08:54,285 INFO 8116 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:08:54,314 INFO 8116 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:09:03,669 INFO 30468 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:09:03,696 INFO 30468 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:10:10,927 INFO 9328 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:10:10,953 INFO 9328 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:16:15,986 INFO 25120 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:16:16,023 INFO 25120 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:16:34,942 INFO 13064 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:16:34,971 INFO 13064 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:17:06,459 INFO 13020 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:17:06,486 INFO 13020 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:17:33,935 INFO 23928 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:17:33,962 INFO 23928 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:18:01,600 INFO 27520 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:18:01,627 INFO 27520 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:18:12,148 INFO 25052 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:18:12,178 INFO 25052 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:19:54,787 INFO 24168 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:19:54,812 INFO 24168 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:20:20,978 INFO 15768 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:20:21,006 INFO 15768 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:21:03,698 INFO 26732 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:21:03,726 INFO 26732 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:22:01,880 INFO 1812 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:22:01,912 INFO 1812 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:23:29,272 INFO 28048 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:23:29,307 INFO 28048 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:23:53,014 INFO 2068 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:23:53,041 INFO 2068 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:23:56,681 INFO 28916 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:23:56,709 INFO 28916 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:24:35,246 INFO 7188 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:24:35,272 INFO 7188 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:24:37,963 INFO 26076 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:24:37,991 INFO 26076 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:25:35,717 INFO 6200 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:25:35,742 INFO 6200 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:26:04,128 INFO 28772 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:26:04,155 INFO 28772 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:26:23,451 INFO 28752 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:26:23,477 INFO 28752 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:26:29,112 INFO 29968 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:26:29,139 INFO 29968 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:28:26,953 INFO 9076 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:28:26,981 INFO 9076 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:28:54,160 INFO 29240 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:28:54,187 INFO 29240 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:29:38,026 INFO 30396 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:29:38,104 INFO 30396 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:31:43,227 INFO 30088 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:31:43,254 INFO 30088 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:32:03,720 INFO 7548 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:32:03,766 INFO 7548 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:37:06,638 INFO 24632 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:37:06,670 INFO 24632 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:37:30,075 INFO 14364 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:37:30,102 INFO 14364 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:38:15,094 INFO 14652 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:38:15,121 INFO 14652 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:38:18,308 INFO 27724 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:38:18,338 INFO 27724 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:38:22,716 INFO 16972 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:38:22,746 INFO 16972 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:38:30,222 INFO 15256 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:38:30,250 INFO 15256 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:40:03,465 INFO 26936 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:40:03,494 INFO 26936 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:40:06,109 INFO 17364 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:40:06,136 INFO 17364 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 16:41:57,413 INFO 18020 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 16:41:57,440 INFO 18020 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 17:10:01,417 INFO 13868 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 17:10:01,445 INFO 13868 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 17:10:03,231 INFO 18664 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 17:10:03,258 INFO 18664 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 17:10:18,959 ERROR 18664 [-/::1/-/31ms POST /api/auth/registry] nodejs.TypeError: Cannot read properties of undefined (reading 'User')
+    at AuthService.registry (D:\person\qiankun\server\app\service\auth.js:20:27)
+    at AuthController.registry (D:\person\qiankun\server\app\controller\auth.js:30:41)
+    at Object.callFn (D:\person\qiankun\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\person\qiankun\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\person\qiankun\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\person\qiankun\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 18664
+hostname: LAPTOP-0R88EIG3
+
+2022-07-09 17:10:47,183 INFO 14960 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 17:10:47,211 INFO 14960 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 17:21:39,630 INFO 23228 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 17:21:39,660 INFO 23228 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 17:36:40,894 INFO 20620 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 17:36:41,026 INFO 20620 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 17:42:10,872 INFO 24752 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 17:42:10,910 INFO 24752 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 17:42:13,436 INFO 26948 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 17:42:13,480 INFO 26948 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 17:44:07,127 INFO 4132 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 17:44:07,166 INFO 4132 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 17:44:07,306 INFO 4132 [egg-sequelize](4ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 17:44:31,742 INFO 20700 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 17:44:31,781 INFO 20700 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 17:44:31,899 INFO 20700 [egg-sequelize](4ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 17:44:54,780 INFO 16048 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 17:44:54,825 INFO 16048 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 17:44:54,971 INFO 16048 [egg-sequelize](5ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 17:46:50,578 INFO 15132 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 17:46:50,643 INFO 15132 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 17:46:50,857 INFO 15132 [egg-sequelize](6ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 17:51:36,132 INFO 476 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 17:51:36,157 INFO 476 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 17:51:36,235 INFO 476 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 17:51:49,210 INFO 22272 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 17:51:49,258 INFO 22272 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 17:51:49,393 INFO 22272 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 17:52:02,626 INFO 25148 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 17:52:02,664 INFO 25148 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 17:52:02,775 INFO 25148 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 17:52:12,743 INFO 25148 [egg-sequelize](27ms) Executed (default): SELECT `id`, `user_name`, `nick_name`, `created_at`, `updated_at`, `password`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user` WHERE `user`.`user_name` = 'qwer' LIMIT 1;
+2022-07-09 17:52:36,713 INFO 25148 [egg-sequelize](2ms) Executed (default): SELECT `id`, `user_name`, `nick_name`, `created_at`, `updated_at`, `password`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user` WHERE `user`.`user_name` = 'qwer' LIMIT 1;
+2022-07-09 17:53:28,153 INFO 25148 [egg-sequelize](2ms) Executed (default): SELECT `id`, `user_name`, `nick_name`, `created_at`, `updated_at`, `password`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user` WHERE `user`.`user_name` = 'qwer' LIMIT 1;
+2022-07-09 17:53:39,481 INFO 25148 [egg-sequelize](3ms) Executed (default): SELECT `id`, `user_name`, `nick_name`, `created_at`, `updated_at`, `password`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user` WHERE `user`.`user_name` = 'qwer' LIMIT 1;
+2022-07-09 17:54:13,021 INFO 25204 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 17:54:13,046 INFO 25204 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 17:54:13,129 INFO 25204 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 17:54:48,063 INFO 22032 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 17:54:48,104 INFO 22032 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 17:54:48,228 INFO 22032 [egg-sequelize](4ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 17:55:01,488 INFO 3824 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 17:55:01,535 INFO 3824 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 17:55:01,667 INFO 3824 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 17:55:05,154 INFO 3824 [egg-sequelize](8ms) Executed (default): SELECT `id`, `user_name`, `nick_name`, `created_at`, `updated_at`, `password`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user` WHERE `user`.`user_name` = 'admin' LIMIT 1;
+2022-07-09 17:57:20,628 INFO 1460 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 17:57:20,669 INFO 1460 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 17:57:20,802 INFO 1460 [egg-sequelize](5ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 17:57:22,967 INFO 1460 [egg-sequelize](9ms) Executed (default): SELECT `id`, `user_name`, `nick_name`, `password`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user` WHERE `user`.`user_name` = 'admin' LIMIT 1;
+2022-07-09 17:57:41,321 INFO 1460 [egg-sequelize](10ms) Executed (default): SELECT `id`, `user_name`, `nick_name`, `password`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user` WHERE `user`.`user_name` = 'admin' LIMIT 1;
+2022-07-09 17:57:42,371 INFO 16192 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 17:57:42,424 INFO 16192 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 17:57:42,576 INFO 16192 [egg-sequelize](4ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 17:58:42,164 INFO 16192 [egg-sequelize](5ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `password`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user` WHERE `user`.`user_name` = 'admin' LIMIT 1;
+2022-07-09 17:59:09,720 INFO 23992 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 17:59:09,765 INFO 23992 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 17:59:09,907 INFO 23992 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 17:59:45,520 INFO 2580 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 17:59:45,565 INFO 2580 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 17:59:45,705 INFO 2580 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 17:59:50,206 INFO 2580 [egg-sequelize](5ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password` FROM `users` AS `user` WHERE `user`.`user_name` = 'admin' LIMIT 1;
+2022-07-09 18:04:34,192 INFO 2580 [egg-sequelize](16ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password` FROM `users` AS `user` WHERE `user`.`user_name` = 'admin' LIMIT 1;
+2022-07-09 18:04:34,650 INFO 6292 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:04:34,710 INFO 6292 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:04:34,895 INFO 6292 [egg-sequelize](5ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:04:56,106 ERROR 6292 [-/::1/-/50ms POST /api/auth/registry] nodejs.TypeError: ctx.model.User.find is not a function
+    at AuthService.registry (D:\person\qiankun\server\app\service\auth.js:20:39)
+    at AuthController.registry (D:\person\qiankun\server\app\controller\auth.js:30:41)
+    at Object.callFn (D:\person\qiankun\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\person\qiankun\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\person\qiankun\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\person\qiankun\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 6292
+hostname: LAPTOP-0R88EIG3
+
+2022-07-09 18:04:57,986 INFO 26380 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:04:58,028 INFO 26380 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:04:58,159 INFO 26380 [egg-sequelize](4ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:05:04,474 INFO 27956 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:05:04,515 INFO 27956 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:05:04,657 INFO 27956 [egg-sequelize](4ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:05:17,420 INFO 11248 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:05:17,486 INFO 11248 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:05:17,694 INFO 11248 [egg-sequelize](5ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:05:18,070 ERROR 11248 [-/::1/-/29ms POST /api/auth/registry] nodejs.TypeError: ctx.model.User.find is not a function
+    at AuthService.registry (D:\person\qiankun\server\app\service\auth.js:20:39)
+    at AuthController.registry (D:\person\qiankun\server\app\controller\auth.js:30:41)
+    at Object.callFn (D:\person\qiankun\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\person\qiankun\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\person\qiankun\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\person\qiankun\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 11248
+hostname: LAPTOP-0R88EIG3
+
+2022-07-09 18:05:41,738 INFO 28300 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:05:41,781 INFO 28300 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:05:41,911 INFO 28300 [egg-sequelize](4ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:05:53,389 INFO 28324 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:05:53,437 INFO 28324 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:05:53,604 INFO 28324 [egg-sequelize](4ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:05:58,492 ERROR 28324 [-/::1/-/29ms POST /api/auth/registry] nodejs.TypeError: ctx.model.User.find is not a function
+    at AuthService.registry (D:\person\qiankun\server\app\service\auth.js:20:39)
+    at AuthController.registry (D:\person\qiankun\server\app\controller\auth.js:30:41)
+    at Object.callFn (D:\person\qiankun\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\person\qiankun\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\person\qiankun\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\person\qiankun\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 28324
+hostname: LAPTOP-0R88EIG3
+
+2022-07-09 18:06:19,600 INFO 19840 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:06:19,719 INFO 19840 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:06:20,003 INFO 19840 [egg-sequelize](5ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:06:22,054 ERROR 19840 [-/::1/-/28ms POST /api/auth/registry] nodejs.TypeError: ctx.model.User.find is not a function
+    at AuthService.registry (D:\person\qiankun\server\app\service\auth.js:20:39)
+    at AuthController.registry (D:\person\qiankun\server\app\controller\auth.js:30:41)
+    at Object.callFn (D:\person\qiankun\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\person\qiankun\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\person\qiankun\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\person\qiankun\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 19840
+hostname: LAPTOP-0R88EIG3
+
+2022-07-09 18:06:44,509 INFO 28832 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:06:44,544 INFO 28832 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:06:44,661 INFO 28832 [egg-sequelize](4ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:06:48,861 ERROR 28832 [-/::1/-/26ms POST /api/auth/registry] nodejs.TypeError: ctx.model.User.find is not a function
+    at AuthService.registry (D:\person\qiankun\server\app\service\auth.js:20:39)
+    at AuthController.registry (D:\person\qiankun\server\app\controller\auth.js:30:41)
+    at Object.callFn (D:\person\qiankun\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\person\qiankun\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\person\qiankun\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\person\qiankun\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 28832
+hostname: LAPTOP-0R88EIG3
+
+2022-07-09 18:07:24,107 ERROR 28832 [-/::1/-/2ms POST /api/auth/registry] nodejs.TypeError: ctx.model.User.find is not a function
+    at AuthService.registry (D:\person\qiankun\server\app\service\auth.js:20:39)
+    at AuthController.registry (D:\person\qiankun\server\app\controller\auth.js:30:41)
+    at Object.callFn (D:\person\qiankun\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\person\qiankun\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\person\qiankun\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\person\qiankun\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 28832
+hostname: LAPTOP-0R88EIG3
+
+2022-07-09 18:07:57,551 INFO 7600 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:07:57,642 INFO 7600 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:07:58,008 INFO 7600 [egg-sequelize](7ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:08:03,188 INFO 7600 [egg-sequelize](4ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password` FROM `users` AS `user` WHERE `user`.`user_name` = 'admin' LIMIT 1;
+2022-07-09 18:08:10,184 INFO 7600 [egg-sequelize](3ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password` FROM `users` AS `user` WHERE `user`.`user_name` = 'admin' LIMIT 1;
+2022-07-09 18:08:24,978 INFO 8920 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:08:25,020 INFO 8920 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:08:25,162 INFO 8920 [egg-sequelize](4ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:08:27,192 INFO 8920 [egg-sequelize](16ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` WHERE `user`.`user_name` = 'admin' LIMIT 1;
+2022-07-09 18:09:47,325 INFO 20256 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:09:47,364 INFO 20256 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:09:47,482 INFO 20256 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:10:22,027 INFO 16768 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:10:22,066 INFO 16768 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:10:22,186 INFO 16768 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:10:25,597 INFO 17620 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:10:25,646 INFO 17620 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:10:25,834 INFO 17620 [egg-sequelize](4ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:10:29,924 INFO 11176 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:10:29,969 INFO 11176 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:10:30,105 INFO 11176 [egg-sequelize](4ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:10:44,322 INFO 11176 [egg-sequelize](4ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` WHERE `user`.`user_name` = 'admin' LIMIT 1;
+2022-07-09 18:10:50,824 INFO 11176 [egg-sequelize](3ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` WHERE `user`.`user_name` = 'admin1' LIMIT 1;
+2022-07-09 18:11:23,158 INFO 26436 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:11:23,214 INFO 26436 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:11:23,402 INFO 26436 [egg-sequelize](5ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:11:24,077 INFO 26436 [egg-sequelize](6ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` WHERE `user`.`user_name` = 'admin1' LIMIT 1;
+2022-07-09 18:16:09,371 INFO 14112 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:16:09,416 INFO 14112 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:16:09,556 INFO 14112 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:16:09,736 INFO 14112 [egg-sequelize](5ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` WHERE `user`.`user_name` = 'admin1' LIMIT 1;
+2022-07-09 18:18:49,161 INFO 18976 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:18:49,202 INFO 18976 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:18:49,332 INFO 18976 [egg-sequelize](12ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:18:49,407 INFO 18976 [egg-sequelize](9ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` WHERE `user`.`user_name` = 'admin1' LIMIT 1;
+2022-07-09 18:18:49,495 INFO 18976 [egg-sequelize](75ms) Executed (default): INSERT INTO `users` (`id`,`user_name`,`nick_name`,`created_at`,`updated_at`,`password`) VALUES (DEFAULT,?,?,?,?,?);
+2022-07-09 18:22:06,651 INFO 12736 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:22:06,703 INFO 12736 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:22:06,892 INFO 12736 [egg-sequelize](5ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:26:08,787 INFO 15664 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:26:08,828 INFO 15664 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:26:08,968 INFO 15664 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:26:19,985 INFO 15664 [egg-sequelize](5ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` WHERE `user`.`user_name` = 'admin11' LIMIT 1;
+2022-07-09 18:26:20,031 INFO 15664 [egg-sequelize](17ms) Executed (default): INSERT INTO `users` (`id`,`user_name`,`nick_name`,`created_at`,`updated_at`,`password`,`token`) VALUES (DEFAULT,?,?,?,?,?,?);
+2022-07-09 18:27:43,824 INFO 6464 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:27:43,895 INFO 6464 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:27:44,106 INFO 6464 [egg-sequelize](6ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:27:47,411 INFO 6464 [egg-sequelize](32ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` WHERE `user`.`user_name` = 'admin11' LIMIT 1;
+2022-07-09 18:27:47,427 INFO 6464 [egg-sequelize](6ms) Executed (default): INSERT INTO `users` (`id`,`user_name`,`nick_name`,`created_at`,`updated_at`,`password`,`token`) VALUES (DEFAULT,?,?,?,?,?,?);
+2022-07-09 18:28:08,603 INFO 6464 [egg-sequelize](3ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` WHERE `user`.`user_name` = 'admin' LIMIT 1;
+2022-07-09 18:28:08,612 INFO 6464 [egg-sequelize](5ms) Executed (default): INSERT INTO `users` (`id`,`user_name`,`nick_name`,`created_at`,`updated_at`,`password`,`token`) VALUES (DEFAULT,?,?,?,?,?,?);
+2022-07-09 18:28:26,793 INFO 25732 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:28:26,837 INFO 25732 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:28:27,004 INFO 25732 [egg-sequelize](4ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:28:31,353 INFO 25732 [egg-sequelize](5ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` WHERE `user`.`user_name` = 'admin' LIMIT 1;
+2022-07-09 18:28:31,372 INFO 25732 [egg-sequelize](8ms) Executed (default): INSERT INTO `users` (`id`,`user_name`,`nick_name`,`created_at`,`updated_at`,`password`) VALUES (DEFAULT,?,?,?,?,?);
+2022-07-09 18:28:54,840 INFO 18080 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:28:54,890 INFO 18080 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:28:55,017 INFO 18080 [egg-sequelize](4ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:29:07,548 INFO 26448 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:29:07,597 INFO 26448 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:29:07,765 INFO 26448 [egg-sequelize](5ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:29:12,440 INFO 12080 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:29:12,493 INFO 12080 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:29:12,652 INFO 12080 [egg-sequelize](4ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:29:12,795 INFO 12080 [egg-sequelize](12ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` WHERE `user`.`user_name` = 'admin' LIMIT 1;
+2022-07-09 18:29:53,307 INFO 12080 [egg-sequelize](5ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` WHERE `user`.`user_name` = 'admin' LIMIT 1;
+2022-07-09 18:30:28,645 INFO 12080 [egg-sequelize](4ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` WHERE `user`.`user_name` = 'admin' LIMIT 1;
+2022-07-09 18:30:50,408 INFO 25048 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:30:50,460 INFO 25048 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:30:49,824 INFO 12080 [egg-sequelize](8ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` WHERE `user`.`user_name` = 'admin' LIMIT 1;
+2022-07-09 18:30:50,624 INFO 25048 [egg-sequelize](4ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:31:41,970 INFO 13340 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:31:42,024 INFO 13340 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:31:42,213 INFO 13340 [egg-sequelize](6ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:31:55,726 INFO 15428 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:31:55,800 INFO 15428 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:31:55,977 INFO 15428 [egg-sequelize](4ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:31:59,592 INFO 15428 [egg-sequelize](12ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password` FROM `users` AS `user` WHERE `user`.`user_name` = 'admin' LIMIT 1;
+2022-07-09 18:31:59,645 INFO 15428 [egg-sequelize](27ms) Executed (default): INSERT INTO `users` (`id`,`user_name`,`nick_name`,`created_at`,`updated_at`,`password`) VALUES (DEFAULT,?,?,?,?,?);
+2022-07-09 18:32:00,302 INFO 25156 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:32:00,352 INFO 25156 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:32:00,506 INFO 25156 [egg-sequelize](9ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:32:18,078 INFO 11928 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:32:18,117 INFO 11928 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:32:18,243 INFO 11928 [egg-sequelize](4ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:33:12,133 INFO 19852 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:33:12,186 INFO 19852 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:33:12,395 INFO 19852 [egg-sequelize](10ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:33:15,471 INFO 22980 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:33:15,523 INFO 22980 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:33:15,691 INFO 22980 [egg-sequelize](4ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:33:44,806 INFO 20424 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:33:44,845 INFO 20424 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:33:44,989 INFO 20424 [egg-sequelize](4ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:33:49,830 INFO 20424 [egg-sequelize](30ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` WHERE `user`.`user_name` = 'admin' LIMIT 1;
+2022-07-09 18:33:49,866 INFO 20424 [egg-sequelize](18ms) Executed (default): INSERT INTO `users` (`id`,`user_name`,`nick_name`,`created_at`,`updated_at`,`password`,`token`) VALUES (DEFAULT,?,?,?,?,?,?);
+2022-07-09 18:34:18,750 INFO 20424 [egg-sequelize](24ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` WHERE `user`.`user_name` = 'admin' LIMIT 1;
+2022-07-09 18:34:20,138 INFO 26316 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:34:20,197 INFO 26316 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:34:20,373 INFO 26316 [egg-sequelize](5ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:34:25,152 INFO 26316 [egg-sequelize](3ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `token` FROM `users` AS `user` WHERE `user`.`user_name` = 'admin1' LIMIT 1;
+2022-07-09 18:34:25,185 INFO 26316 [egg-sequelize](22ms) Executed (default): INSERT INTO `users` (`id`,`user_name`,`nick_name`,`created_at`,`updated_at`,`token`) VALUES (DEFAULT,?,?,?,?,?);
+2022-07-09 18:35:04,832 INFO 15656 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:35:04,877 INFO 15656 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:35:05,005 INFO 15656 [egg-sequelize](5ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:35:57,738 INFO 29792 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:35:57,781 INFO 29792 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:35:57,934 INFO 29792 [egg-sequelize](4ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:36:08,601 INFO 29792 [egg-sequelize](7ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` WHERE `user`.`user_name` = 'admin' LIMIT 1;
+2022-07-09 18:36:08,631 INFO 29792 [egg-sequelize](18ms) Executed (default): INSERT INTO `users` (`id`,`user_name`,`nick_name`,`created_at`,`updated_at`,`password`,`token`) VALUES (DEFAULT,?,?,?,?,?,?);
+2022-07-09 18:42:44,819 INFO 26052 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:42:44,844 INFO 26052 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:42:44,918 INFO 26052 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:42:46,598 INFO 24724 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:42:46,624 INFO 24724 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:42:46,701 INFO 24724 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:45:25,015 INFO 14328 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:45:25,041 INFO 14328 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:45:25,128 INFO 14328 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:45:27,990 INFO 14328 [egg-sequelize](3ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` WHERE `user`.`user_name` = 'test' LIMIT 1;
+2022-07-09 18:45:28,014 INFO 14328 [egg-sequelize](11ms) Executed (default): INSERT INTO `users` (`id`,`user_name`,`nick_name`,`created_at`,`updated_at`,`password`,`token`) VALUES (DEFAULT,?,?,?,?,?,?);
+2022-07-09 18:45:36,030 INFO 14328 [egg-sequelize](4ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` WHERE `user`.`user_name` = 'wu' LIMIT 1;
+2022-07-09 18:45:36,048 INFO 14328 [egg-sequelize](15ms) Executed (default): INSERT INTO `users` (`id`,`user_name`,`nick_name`,`created_at`,`updated_at`,`password`,`token`) VALUES (DEFAULT,?,?,?,?,?,?);
+2022-07-09 18:46:22,644 INFO 14328 [egg-sequelize](4ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` WHERE `user`.`user_name` = 'wu1' LIMIT 1;
+2022-07-09 18:46:22,656 INFO 14328 [egg-sequelize](9ms) Executed (default): INSERT INTO `users` (`id`,`user_name`,`nick_name`,`created_at`,`updated_at`,`password`,`token`) VALUES (DEFAULT,?,?,?,?,?,?);
+2022-07-09 18:46:52,915 INFO 14328 [egg-sequelize](2ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` WHERE `user`.`user_name` = 'along' LIMIT 1;
+2022-07-09 18:46:52,927 INFO 14328 [egg-sequelize](9ms) Executed (default): INSERT INTO `users` (`id`,`user_name`,`nick_name`,`created_at`,`updated_at`,`password`,`token`) VALUES (DEFAULT,?,?,?,?,?,?);
+2022-07-09 18:50:50,153 INFO 27496 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:50:50,181 INFO 27496 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:50:50,270 INFO 27496 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:54:01,841 INFO 18204 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:54:01,867 INFO 18204 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:54:01,963 INFO 18204 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:54:04,046 INFO 26868 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:54:04,073 INFO 26868 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:54:04,219 INFO 26868 [egg-sequelize](4ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:54:40,792 INFO 28396 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:54:40,820 INFO 28396 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:54:40,904 INFO 28396 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 18:54:56,811 INFO 17556 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 18:54:56,837 INFO 17556 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 18:54:56,978 INFO 17556 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:11:40,662 INFO 15236 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:11:40,705 INFO 15236 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:11:40,792 INFO 15236 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:11:42,512 INFO 29704 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:11:42,542 INFO 29704 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:11:42,623 INFO 29704 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:12:05,850 INFO 28408 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:12:05,877 INFO 28408 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:12:05,967 INFO 28408 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:12:52,800 INFO 28872 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:12:52,826 INFO 28872 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:12:52,914 INFO 28872 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:13:16,054 INFO 29440 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:13:16,079 INFO 29440 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:13:16,155 INFO 29440 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:13:38,278 INFO 30172 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:13:38,306 INFO 30172 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:13:38,394 INFO 30172 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:13:58,795 INFO 29804 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:13:58,822 INFO 29804 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:13:58,900 INFO 29804 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:14:11,825 INFO 13188 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:14:11,852 INFO 13188 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:14:11,933 INFO 13188 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:14:24,556 ERROR 13188 [-/::1/-/20ms POST /api/auth/login] nodejs.TypeError: ctx.service.auth.logn is not a function
+    at AuthController.login (D:\person\qiankun\server\app\controller\auth.js:16:39)
+    at Object.callFn (D:\person\qiankun\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\person\qiankun\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\person\qiankun\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\person\qiankun\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 13188
+hostname: LAPTOP-0R88EIG3
+
+2022-07-09 19:14:44,974 INFO 25844 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:14:45,002 INFO 25844 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:14:45,084 INFO 25844 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:14:49,913 ERROR 25844 [-/::1/-/15ms POST /api/auth/login] nodejs.TypeError: ctx.service.auth.logn is not a function
+    at AuthController.login (D:\person\qiankun\server\app\controller\auth.js:16:39)
+    at Object.callFn (D:\person\qiankun\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\person\qiankun\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\person\qiankun\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\person\qiankun\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 25844
+hostname: LAPTOP-0R88EIG3
+
+2022-07-09 19:15:14,696 INFO 10564 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:15:14,723 INFO 10564 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:15:14,801 INFO 10564 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:15:15,869 ERROR 10564 [-/::1/-/14ms POST /api/auth/login] nodejs.TypeError: ctx.service.auth.logn is not a function
+    at AuthController.login (D:\person\qiankun\server\app\controller\auth.js:16:39)
+    at Object.callFn (D:\person\qiankun\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\person\qiankun\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\person\qiankun\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\person\qiankun\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 10564
+hostname: LAPTOP-0R88EIG3
+
+2022-07-09 19:15:37,943 ERROR 10564 [-/::1/-/4ms POST /api/auth/login] nodejs.TypeError: ctx.service.auth.logn is not a function
+    at AuthController.login (D:\person\qiankun\server\app\controller\auth.js:16:39)
+    at Object.callFn (D:\person\qiankun\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\person\qiankun\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\person\qiankun\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\person\qiankun\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 10564
+hostname: LAPTOP-0R88EIG3
+
+2022-07-09 19:15:38,389 INFO 2968 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:15:38,435 INFO 2968 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:15:38,648 INFO 2968 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:15:53,833 INFO 26408 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:15:53,859 INFO 26408 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:15:53,941 INFO 26408 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:15:55,625 ERROR 26408 [-/::1/-/16ms POST /api/auth/login] nodejs.TypeError: ctx.service.auth.logn is not a function
+    at AuthController.login (D:\person\qiankun\server\app\controller\auth.js:16:39)
+    at Object.callFn (D:\person\qiankun\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\person\qiankun\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\person\qiankun\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\person\qiankun\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 26408
+hostname: LAPTOP-0R88EIG3
+
+2022-07-09 19:16:10,344 INFO 23752 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:16:10,370 INFO 23752 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:16:10,447 INFO 23752 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:16:15,199 ERROR 23752 [-/::1/-/18ms POST /api/auth/login] nodejs.TypeError: ctx.service.auth.logn is not a function
+    at AuthController.login (D:\person\qiankun\server\app\controller\auth.js:16:39)
+    at Object.callFn (D:\person\qiankun\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\person\qiankun\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\person\qiankun\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\person\qiankun\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 23752
+hostname: LAPTOP-0R88EIG3
+
+2022-07-09 19:16:59,741 INFO 25332 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:16:59,770 INFO 25332 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:16:59,873 INFO 25332 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:17:00,007 ERROR 25332 [-/::1/-/20ms POST /api/auth/login] nodejs.TypeError: ctx.service.auth.logn is not a function
+    at AuthController.login (D:\person\qiankun\server\app\controller\auth.js:16:39)
+    at Object.callFn (D:\person\qiankun\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\person\qiankun\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\person\qiankun\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\person\qiankun\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 25332
+hostname: LAPTOP-0R88EIG3
+
+2022-07-09 19:17:30,011 INFO 5676 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:17:30,042 INFO 5676 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:17:30,142 INFO 5676 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:17:51,108 INFO 18664 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:17:51,141 INFO 18664 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:17:51,304 INFO 18664 [egg-sequelize](4ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:17:51,980 ERROR 18664 [-/::1/-/19ms POST /api/auth/login] nodejs.TypeError: ctx.service.auth.logn is not a function
+    at AuthController.login (D:\person\qiankun\server\app\controller\auth.js:16:41)
+    at Object.callFn (D:\person\qiankun\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\person\qiankun\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\person\qiankun\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\person\qiankun\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\person\qiankun\server\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 18664
+hostname: LAPTOP-0R88EIG3
+
+2022-07-09 19:18:27,122 INFO 16436 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:18:27,149 INFO 16436 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:18:27,236 INFO 16436 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:18:29,970 INFO 12156 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:18:29,996 INFO 12156 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:18:30,089 INFO 12156 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:18:33,450 INFO 28892 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:18:33,478 INFO 28892 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:18:33,571 INFO 28892 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:18:59,907 INFO 24896 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:18:59,933 INFO 24896 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:19:00,031 INFO 24896 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:19:18,761 INFO 29756 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:19:18,787 INFO 29756 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:19:18,873 INFO 29756 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:19:57,181 INFO 13960 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:19:57,208 INFO 13960 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:19:57,289 INFO 13960 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:20:03,650 INFO 18628 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:20:03,676 INFO 18628 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:20:03,756 INFO 18628 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:20:23,918 INFO 6720 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:20:23,947 INFO 6720 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:20:24,036 INFO 6720 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:20:24,287 INFO 6720 [egg-sequelize](14ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` LIMIT 1;
+2022-07-09 19:20:35,901 INFO 27068 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:20:35,928 INFO 27068 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:20:36,010 INFO 27068 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:20:37,996 INFO 27068 [egg-sequelize](6ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` LIMIT 1;
+2022-07-09 19:21:14,075 INFO 19404 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:21:14,103 INFO 19404 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:21:14,213 INFO 19404 [egg-sequelize](11ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:21:26,189 INFO 19404 [egg-sequelize](10ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` LIMIT 1;
+2022-07-09 19:21:40,824 INFO 28160 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:21:40,851 INFO 28160 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:21:40,930 INFO 28160 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:21:45,585 INFO 28160 [egg-sequelize](7ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` LIMIT 1;
+2022-07-09 19:21:54,336 INFO 6588 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:21:54,360 INFO 6588 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:21:54,438 INFO 6588 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:21:58,521 INFO 29156 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:21:58,571 INFO 29156 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:21:58,675 INFO 29156 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:22:01,530 INFO 29156 [egg-sequelize](7ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` LIMIT 1;
+2022-07-09 19:22:08,301 INFO 29156 [egg-sequelize](5ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` LIMIT 1;
+2022-07-09 19:22:18,278 INFO 27352 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:22:18,305 INFO 27352 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:22:18,382 INFO 27352 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:22:19,485 INFO 27352 [egg-sequelize](7ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` LIMIT 1;
+2022-07-09 19:22:34,047 INFO 27352 [egg-sequelize](2ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` LIMIT 1;
+2022-07-09 19:22:42,462 INFO 15832 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:22:42,487 INFO 15832 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:22:42,573 INFO 15832 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:23:06,451 INFO 1480 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:23:06,477 INFO 1480 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:23:06,551 INFO 1480 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:23:11,095 INFO 4964 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:23:11,127 INFO 4964 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:23:11,281 INFO 4964 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:23:12,619 INFO 4964 [egg-sequelize](4ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` LIMIT 1;
+2022-07-09 19:23:43,722 INFO 15792 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:23:43,748 INFO 15792 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:23:43,828 INFO 15792 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:23:45,836 INFO 15792 [egg-sequelize](8ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` LIMIT 1;
+2022-07-09 19:23:49,530 INFO 15792 [egg-sequelize](3ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` LIMIT 1;
+2022-07-09 19:24:15,632 INFO 22848 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:24:15,659 INFO 22848 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:24:15,738 INFO 22848 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:24:21,394 INFO 23928 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:24:21,423 INFO 23928 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:24:21,513 INFO 23928 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:24:22,766 INFO 23928 [egg-sequelize](4ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` LIMIT 1;
+2022-07-09 19:24:26,350 INFO 23928 [egg-sequelize](3ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` LIMIT 1;
+2022-07-09 19:24:51,079 INFO 30260 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:24:51,106 INFO 30260 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:24:51,186 INFO 30260 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:24:53,614 INFO 30260 [egg-sequelize](4ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` LIMIT 1;
+2022-07-09 19:24:56,176 INFO 30260 [egg-sequelize](3ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` LIMIT 1;
+2022-07-09 19:25:10,215 INFO 10308 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:25:10,255 INFO 10308 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:25:10,363 INFO 10308 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:25:11,036 INFO 10308 [egg-sequelize](6ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` LIMIT 1;
+2022-07-09 19:25:31,484 INFO 25536 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:25:31,510 INFO 25536 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:25:31,605 INFO 25536 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:25:34,524 INFO 25536 [egg-sequelize](7ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` LIMIT 1;
+2022-07-09 19:25:34,563 INFO 25536 [egg-sequelize](23ms) Executed (default): UPDATE `users` SET `token`=?,`updated_at`=? WHERE `id` = ?
+2022-07-09 19:26:39,900 INFO 13136 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:26:39,937 INFO 13136 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:26:40,043 INFO 13136 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:26:41,311 INFO 13136 [egg-sequelize](7ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` LIMIT 1;
+2022-07-09 19:26:41,346 INFO 13136 [egg-sequelize](21ms) Executed (default): UPDATE `users` SET `token`=?,`updated_at`=? WHERE `id` = ?
+2022-07-09 19:27:15,544 INFO 13136 [egg-sequelize](4ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` LIMIT 1;
+2022-07-09 19:27:15,576 INFO 13136 [egg-sequelize](27ms) Executed (default): UPDATE `users` SET `token`=?,`updated_at`=? WHERE `id` = ?
+2022-07-09 19:27:46,818 INFO 24940 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 19:27:46,845 INFO 24940 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 19:27:46,925 INFO 24940 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 19:27:47,095 INFO 24940 [egg-sequelize](5ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` LIMIT 1;
+2022-07-09 19:27:47,123 INFO 24940 [egg-sequelize](15ms) Executed (default): UPDATE `users` SET `token`=?,`updated_at`=? WHERE `id` = ?
+2022-07-09 22:19:56,188 INFO 28960 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 22:19:56,224 INFO 28960 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 22:19:56,332 INFO 28960 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 22:19:59,122 INFO 31076 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 22:19:59,155 INFO 31076 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 22:19:59,285 INFO 31076 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 22:21:03,813 INFO 26864 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 22:21:03,861 INFO 26864 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 22:21:04,022 INFO 26864 [egg-sequelize](5ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 22:47:01,601 INFO 20436 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 22:47:01,636 INFO 20436 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 22:47:01,712 INFO 20436 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 22:47:36,601 INFO 5668 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 22:47:36,657 INFO 5668 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 22:47:36,847 INFO 5668 [egg-sequelize](4ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 22:47:47,919 INFO 3828 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 22:47:47,958 INFO 3828 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 22:47:48,068 INFO 3828 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 22:47:53,356 INFO 12340 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 22:47:53,392 INFO 12340 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 22:47:53,487 INFO 12340 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2022-07-09 22:48:21,307 INFO 6000 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-09 22:48:21,342 INFO 6000 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-09 22:48:21,463 INFO 6000 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result

@@ -14,13 +14,15 @@
       "genid": "<Function v4>"
     },
     "security": {
-      "domainWhiteList": [],
+      "domainWhiteList": [
+        "http://localhost:8080"
+      ],
       "protocolWhiteList": [],
       "defaultMiddleware": "csrf,hsts,methodnoallow,noopen,nosniff,csp,xssProtection,xframe,dta",
       "csrf": {
         "enable": false,
         "type": "ctoken",
-        "ignoreJSON": false,
+        "ignoreJSON": true,
         "useSession": false,
         "cookieName": "csrfToken",
         "sessionName": "csrfToken",
@@ -119,10 +121,11 @@
         "D:\\person\\qiankun\\server\\node_modules\\egg-static\\config\\locales",
         "D:\\person\\qiankun\\server\\node_modules\\egg-view\\config\\locales",
         "D:\\person\\qiankun\\server\\node_modules\\egg-view-ejs\\config\\locales",
+        "D:\\person\\qiankun\\server\\node_modules\\egg-jwt\\config\\locales",
         "D:\\person\\qiankun\\server\\node_modules\\egg-cors\\config\\locales",
         "D:\\person\\qiankun\\server\\node_modules\\egg-swagger-doc\\config\\locales",
         "D:\\person\\qiankun\\server\\node_modules\\egg-mysql\\config\\locales",
-        "D:\\person\\qiankun\\server\\node_modules\\egg-mongoose\\config\\locales",
+        "D:\\person\\qiankun\\server\\node_modules\\egg-sequelize\\config\\locales",
         "D:\\person\\qiankun\\server\\node_modules\\egg\\config\\locales",
         "D:\\person\\qiankun\\server\\config\\locales"
       ],
@@ -210,6 +213,10 @@
       "delimiter": null,
       "strict": false
     },
+    "jwt": {
+      "secret": "<String len: 6>",
+      "enable": false
+    },
     "cors": {
       "origin": "*",
       "allowMethods": "GET, PUT, POST, DELETE, PATCH"
@@ -243,36 +250,15 @@
         "connectionLimit": 5
       },
       "app": true,
-      "agent": false,
-      "client": {
-        "host": "localhost",
-        "port": "3306",
-        "user": "root",
-        "password": "<String len: 9>",
-        "database": "late"
-      }
+      "agent": false
     },
-    "mongoose": {
-      "url": "localhost:7001",
-      "options": {
-        "server": {
-          "poolSize": 40
-        },
-        "useNewUrlParser": true
-      },
-      "plugins": [],
-      "loadModel": true,
-      "app": true,
-      "agent": false,
-      "client": {
-        "url": "localhost:7001",
-        "options": {
-          "server": {
-            "poolSize": 40
-          },
-          "useNewUrlParser": true
-        }
-      }
+    "sequelize": {
+      "dialect": "mysql",
+      "database": "late",
+      "host": "localhost",
+      "port": "3306",
+      "username": "root",
+      "password": "<String len: 9>"
     },
     "env": "local",
     "name": "server",
@@ -295,12 +281,14 @@
       "dependencies": {
         "egg": "^2.15.1",
         "egg-cors": "^2.2.3",
-        "egg-mongoose": "^3.3.1",
+        "egg-jwt": "^3.1.7",
         "egg-scripts": "^2.11.0",
+        "egg-sequelize": "^6.0.0",
         "egg-swagger-doc": "^2.3.2",
         "egg-view-ejs": "^2.0.1",
         "lodash": "^4.17.21",
-        "moment": "^2.29.3"
+        "moment": "^2.29.3",
+        "mysql2": "^2.3.3"
       },
       "devDependencies": {
         "autod": "^3.0.1",
@@ -442,7 +430,9 @@
       "responseTimeout": 60000
     },
     "onClientError": null,
-    "middleware": [],
+    "middleware": [
+      "jwt"
+    ],
     "coreMiddlewares": "~config~coreMiddleware",
     "appMiddlewares": "~config~middleware",
     "appMiddleware": "~config~middleware",
@@ -619,6 +609,19 @@
       "path": "D:\\person\\qiankun\\server\\node_modules\\egg-view-ejs",
       "version": "2.0.1"
     },
+    "jwt": {
+      "enable": true,
+      "package": "egg-jwt",
+      "name": "jwt",
+      "dependencies": [],
+      "optionalDependencies": [
+        "onerror"
+      ],
+      "env": [],
+      "from": "D:\\person\\qiankun\\server\\config\\plugin.js",
+      "path": "D:\\person\\qiankun\\server\\node_modules\\egg-jwt",
+      "version": "3.1.7"
+    },
     "cors": {
       "enable": true,
       "package": "egg-cors",
@@ -652,16 +655,16 @@
       "path": "D:\\person\\qiankun\\server\\node_modules\\egg-mysql",
       "version": "3.1.1"
     },
-    "mongoose": {
+    "sequelize": {
       "enable": true,
-      "package": "egg-mongoose",
-      "name": "mongoose",
+      "package": "egg-sequelize",
+      "name": "sequelize",
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
       "from": "D:\\person\\qiankun\\server\\config\\plugin.js",
-      "path": "D:\\person\\qiankun\\server\\node_modules\\egg-mongoose",
-      "version": "3.3.1"
+      "path": "D:\\person\\qiankun\\server\\node_modules\\egg-sequelize",
+      "version": "6.0.0"
     }
   },
   "appInfo": {
@@ -680,12 +683,14 @@
       "dependencies": {
         "egg": "^2.15.1",
         "egg-cors": "^2.2.3",
-        "egg-mongoose": "^3.3.1",
+        "egg-jwt": "^3.1.7",
         "egg-scripts": "^2.11.0",
+        "egg-sequelize": "^6.0.0",
         "egg-swagger-doc": "^2.3.2",
         "egg-view-ejs": "^2.0.1",
         "lodash": "^4.17.21",
-        "moment": "^2.29.3"
+        "moment": "^2.29.3",
+        "mysql2": "^2.3.3"
       },
       "devDependencies": {
         "autod": "^3.0.1",

@@ -24,8 +24,9 @@ module.exports = (appInfo) => {
     security: {
       csrf: {
         enable: false,
+        ignoreJSON: true,
       },
-      domainWhiteList: [],
+      domainWhiteList: ["http://localhost:8080"],
     },
     cors: {
       origin: "*",
@@ -47,29 +48,32 @@ module.exports = (appInfo) => {
       routerMap: false,
       enable: true,
     },
-    mysql: {
-      client: {
-        host: "localhost",
-        port: "3306",
-        user: "root",
-        password: "abc123QQQ",
-        database: "late",
-      },
-      app: true,
-      agent: false,
-    },
+    // mysql: {
+    //   client: {
+    //     host: "localhost",
+    //     port: "3306",
+    //     user: "root",
+    //     password: "abc123QQQ",
+    //     database: "late",
+    //   },
+    //   app: true,
+    //   agent: false,
+    // },
     view: {
       mapping: {
         ".html": "ejs",
       },
     },
-    mongoose: {
-      url: "localhost:7001",
-      options: {
-        server: {
-          poolSize: 40,
-        },
-      },
+    jwt: {
+      secret: "123456",
+    },
+    sequelize: {
+      dialect: "mysql", // support: mysql, mariadb, postgres, mssql
+      database: "late", //数据库名
+      host: "localhost",
+      port: "3306",
+      username: "root", //账号
+      password: "abc123QQQ", //密码
     },
   };
 

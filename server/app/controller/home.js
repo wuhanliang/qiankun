@@ -2,12 +2,18 @@
 
 const Controller = require("egg").Controller;
 /**
- * @Controller 页面入口
+ * @Controller 主页入口
+ *
  */
 class HomeController extends Controller {
+  /**
+   * @Summary Home
+   * @Router get /api/home
+   *
+   */
   async index() {
     const { ctx } = this;
-    await ctx.render("index.html", { lists: ["苹果", "香蕉", "西瓜"] });
+    ctx.body = "hello world"; //ender("index.html", { lists: ["苹果", "香蕉", "西瓜"] });
   }
 }
 

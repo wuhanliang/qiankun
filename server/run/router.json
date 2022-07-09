@@ -2,6 +2,30 @@
   {
     "name": null,
     "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/api/auth/login",
+    "regexp": "/^\\/api\\/auth\\/login(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/api/auth/registry",
+    "regexp": "/^\\/api\\/auth\\/registry(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
       "HEAD",
       "GET"
     ],
@@ -19,20 +43,8 @@
       "GET"
     ],
     "paramNames": [],
-    "path": "/api/app/list",
-    "regexp": "/^\\/api\\/app\\/list(?:\\/(?=$))?$/",
-    "stack": [
-      "wrappedController"
-    ]
-  },
-  {
-    "name": null,
-    "methods": [
-      "POST"
-    ],
-    "paramNames": [],
-    "path": "/api/app/createOrUpdate",
-    "regexp": "/^\\/api\\/app\\/createOrUpdate(?:\\/(?=$))?$/",
+    "path": "/swagger-doc",
+    "regexp": "/^\\/swagger-doc(?:\\/(?=$))?$/",
     "stack": [
       "wrappedController"
     ]

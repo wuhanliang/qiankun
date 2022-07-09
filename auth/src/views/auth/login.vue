@@ -4,7 +4,7 @@
     
     <div class="demo-login">
       <Login @on-submit="handleSubmit">
-        <UserName name="username" />
+        <UserName name="userName" />
         <Password name="password" />
         <div class="demo-auto-login">
           <Button @click="handleRegistry()" type="text">注册</Button>
@@ -16,13 +16,22 @@
 </template>
 
 <script setup>
-import { ref } from "vue";
+import { ref, getCurrentInstance } from "vue";
 import { useRouter } from 'vue-router'
 import { Login, Checkbox, Submit, UserName, Password, Button } from "view-ui-plus"
+const { proxy } = getCurrentInstance()
+
 const $router = useRouter()
 
-const handleSubmit = (valid, { username, password }) => {
-  console.log(username, password);
+const handleSubmit = (valid, { userName, password }) => {
+  proxy.$fetch({
+    url: '/api/auth/login',
+    method: 'post',
+    data: {
+      userName,
+      password
+    }
+  })
 };
 
 const handleRegistry = () => $router.push({ name: 'registry' })
