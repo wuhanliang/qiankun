@@ -2,6 +2,11 @@ const Service = require("egg").Service;
 const utils = require("utility");
 
 class AuthService extends Service {
+  /**
+   * @Dscription 登录业务处理
+   * @Author wu
+   * @returns
+   */
   async login() {
     const { app, ctx } = this;
     try {

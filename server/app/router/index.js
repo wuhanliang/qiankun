@@ -6,6 +6,7 @@
 module.exports = (app) => {
   // 引入模块路由
   require("./auth/index.js")(app);
+  require("./system")(app);
 
   const { router, controller } = app;
   router.get("/", controller.home.index);

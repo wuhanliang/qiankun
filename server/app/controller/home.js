@@ -7,13 +7,14 @@ const Controller = require("egg").Controller;
  */
 class HomeController extends Controller {
   /**
-   * @Summary Home
-   * @Router get /api/home
+   * @Summary 系统主页
+   * @Description 默认返回系统门户导航页面
+   * @Router get /
    *
    */
   async index() {
     const { ctx } = this;
-    ctx.body = "hello world"; //ender("index.html", { lists: ["苹果", "香蕉", "西瓜"] });
+    await ctx.render("index.html", { lists: ["苹果", "香蕉", "西瓜"] });
   }
 }
 

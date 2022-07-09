@@ -30,6 +30,55 @@
       "GET"
     ],
     "paramNames": [],
+    "path": "/api/system/list/app",
+    "regexp": "/^\\/api\\/system\\/list\\/app(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/api/system/create/app",
+    "regexp": "/^\\/api\\/system\\/create\\/app(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "PUT"
+    ],
+    "paramNames": [],
+    "path": "/api/system/update/app",
+    "regexp": "/^\\/api\\/system\\/update\\/app(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "DELETE"
+    ],
+    "paramNames": [],
+    "path": "/api/system/delete/app",
+    "regexp": "/^\\/api\\/system\\/delete\\/app(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
     "path": "/",
     "regexp": "/^(?:\\/(?=$))?$/",
     "stack": [

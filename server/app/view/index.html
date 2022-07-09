@@ -5,23 +5,32 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title></title>
+  <style>
+    .container{
+      text-align: center;
+      margin-top: 200px;
+      line-height: 2;
+    }
+    *{
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+  </style>
 </head>
 <body>
-  <div>
-    <h1>欢迎使用egg-view</h1>
+  <div class="container">
+    <img src="/public/assets/imgs/node-js.png" alt="">
+    <h1 style="margin-top: 32px;">欢迎使用Late平台</h1>
     <ul>
       <li>
-        <h2><a href="/swagger-ui.html">swagger接口文档</a></h2>
+        <h2><a target="_blank"  href="/swagger-ui.html">swagger接口文档</a></h2>
       </li>
       <li>
-        <h2><a href="http://localhost:10000">前端应用</a></h2>
+        <h2><a target="_blank"  href="http://localhost:10000">web前端应用</a></h2>
+        <h2><a target="_blank"  href="http://localhost:20000">移动前端应用</a></h2>
       </li>
     </ul>
-    <ul>
-      <% for(var i=0;i<lists.length;i++) {%>
-      <li><%=lists[i]%></li>
-      <% } %>
-  </ul>
   </div>
 </body>
 </html>

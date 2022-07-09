@@ -4,10 +4,11 @@ const Controller = require("egg").Controller;
  */
 class AuthController extends Controller {
   /**
-   * @Summary Summary
+   * @Summary 登录接口（吴）
    * @Router post /api/auth/login
    * @Request body. 类型：string userName 用户名
    * @Request body. 类型：string password 用户密码
+   *
    *
    */
 
@@ -18,7 +19,7 @@ class AuthController extends Controller {
   }
 
   /**
-   * @Summary 用户注册
+   * @Summary 用户注册（吴）
    * @Router post /api/auth/registry
    * @Request body. 类型：string userName 用户名
    * @Request body. 类型：string password 用户密码

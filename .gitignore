@@ -27,3 +27,7 @@ yarn-debug.log*
 yarn-error.log*
 server/logs/server/egg-agent.log
 server/logs/server/egg-schedule.log
+server/logs/server/server-web.log
+server/logs/server/common-error.log
+server/logs/server/egg-agent.log
+server/logs/server/egg-schedule.log
