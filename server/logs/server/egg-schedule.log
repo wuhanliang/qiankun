@@ -939,3 +939,6 @@
 2022-07-09 22:47:52,595 INFO 12340 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
 2022-07-09 22:47:52,595 INFO 12340 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\egg-logrotator\app\schedule\clean_log.js
 2022-07-09 22:47:52,596 INFO 12340 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-07-09 22:48:20,597 INFO 6000 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-07-09 22:48:20,597 INFO 6000 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-07-09 22:48:20,597 INFO 6000 [egg-schedule]: register schedule D:\person\qiankun\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
