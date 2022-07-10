@@ -13,8 +13,10 @@ class AuthService extends Service {
       const { userName, password } = ctx.request.body;
 
       return await ctx.model.User.findOne({
-        userName: userName,
-        password: utils.md5(password, "base64"),
+        where: {
+          userName: userName,
+          password: utils.md5(password, "base64"),
+        },
       }).then((res) => {
         const token = app.jwt.sign(
           {
@@ -27,6 +29,7 @@ class AuthService extends Service {
           return "用户名密码有误！";
         } else {
           ctx.model.User.update({ token }, { where: { id: res.id } });
+          delete res.dataValues.password;
           return {
             ...res.dataValues,
             token,

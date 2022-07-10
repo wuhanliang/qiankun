@@ -23,8 +23,8 @@ const { proxy } = getCurrentInstance()
 
 const $router = useRouter()
 
-const handleSubmit = (valid, { userName, password }) => {
-  proxy.$fetch({
+const handleSubmit = async (valid, { userName, password }) => {
+  const res = await proxy.$fetch({
     url: '/api/auth/login',
     method: 'post',
     data: {
@@ -32,6 +32,9 @@ const handleSubmit = (valid, { userName, password }) => {
       password
     }
   })
+  localStorage.setItem('authenticated', JSON.stringify(res.data))
+  localStorage.setItem('token', res.data.token)
+  $router.push({ name: 'home' })
 };
 
 const handleRegistry = () => $router.push({ name: 'registry' })
