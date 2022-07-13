@@ -22,9 +22,9 @@ import { Login, Checkbox, Submit, UserName, Password, Button } from "view-ui-plu
 
 const {proxy} = getCurrentInstance()
 const $router = useRouter()
-const handleSubmit = (valid, { userName, password, nickName }) => {
+const handleSubmit = async (valid, { userName, password, nickName }) => {
    
-  proxy.$fetch({
+  const res = await proxy.$fetch({
     url: '/api/auth/registry',
     method: 'post',
     data: {
@@ -33,6 +33,12 @@ const handleSubmit = (valid, { userName, password, nickName }) => {
       nickName
     }
   })
+  if (res.data.success) {
+    console.log(res);
+    localStorage.setItem('user', JSON.stringify(res.data.data))
+    localStorage.setItem('authorization', res.data.data.token)
+    $router.push({ name: 'home' })
+  }
 };
 
 const handleRegistry = () => { 

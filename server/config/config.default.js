@@ -16,7 +16,7 @@ module.exports = (appInfo) => {
   config.keys = appInfo.name + "_1654832905198_2814";
 
   // add your middleware config here
-  config.middleware = [];
+  config.middleware = ["default"];
 
   // add your user config here
   const userConfig = {
@@ -48,17 +48,17 @@ module.exports = (appInfo) => {
       routerMap: false,
       enable: true,
     },
-    // mysql: {
-    //   client: {
-    //     host: "localhost",
-    //     port: "3306",
-    //     user: "root",
-    //     password: "abc123QQQ",
-    //     database: "late",
-    //   },
-    //   app: true,
-    //   agent: false,
-    // },
+    mysql: {
+      client: {
+        host: "localhost",
+        port: "3306",
+        user: "root",
+        password: "abc123QQQ",
+        database: "late",
+      },
+      app: true,
+      agent: false,
+    },
     view: {
       mapping: {
         ".html": "ejs",
@@ -74,6 +74,12 @@ module.exports = (appInfo) => {
       port: "3306",
       username: "root", //账号
       password: "abc123QQQ", //密码
+      dialectOptions: {
+        useUTC: false, // for reading from database
+        charset: "utf8mb4",
+        collate: "utf8mb4_unicode_ci",
+      },
+      timezone: "+08:00",
     },
   };
 

@@ -214,7 +214,14 @@
         "connectionLimit": 5
       },
       "app": true,
-      "agent": false
+      "agent": false,
+      "client": {
+        "host": "localhost",
+        "port": "3306",
+        "user": "root",
+        "password": "<String len: 9>",
+        "database": "late"
+      }
     },
     "sequelize": {
       "dialect": "mysql",
@@ -222,7 +229,13 @@
       "host": "localhost",
       "port": "3306",
       "username": "root",
-      "password": "<String len: 9>"
+      "password": "<String len: 9>",
+      "dialectOptions": {
+        "useUTC": false,
+        "charset": "utf8mb4",
+        "collate": "utf8mb4_unicode_ci"
+      },
+      "timezone": "+08:00"
     },
     "env": "local",
     "name": "server",
@@ -388,7 +401,9 @@
       "responseTimeout": 60000
     },
     "onClientError": null,
-    "middleware": [],
+    "middleware": [
+      "default"
+    ],
     "coreMiddlewares": "~config~coreMiddleware",
     "appMiddlewares": "~config~middleware",
     "appMiddleware": "~config~middleware"

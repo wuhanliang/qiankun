@@ -1,17 +1,25 @@
-const Controller = require("egg").Controller;
+const BaseController = require("./base");
 /**
  * @Controller 系统管理
  */
-class SystemController extends Controller {
+class SystemController extends BaseController {
   /**
    * @Summary 列表查询页面
    * @Router get /api/system/list/app
-   * @Request query. 类型：string pageNum 当前页
-   * @Request query. 类型：string pageSize 分页大小
-   * @Request query. 类型：string name 分页大小
+   * @Request query 类型：string pageNum 当前页
+   * @Request query 类型：string pageSize 分页大小
+   * @Request query 类型：string name 分页大小
    *
    */
-  async index() {}
+  async index() {
+    const { ctx } = this;
+    try {
+      const data = await ctx.service.system.index();
+      this.handleRes(data);
+    } catch (err) {
+      this.handleRes(err);
+    }
+  }
 
   /**
    * @Summary 新增应用

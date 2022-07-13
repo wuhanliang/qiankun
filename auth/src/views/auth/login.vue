@@ -32,9 +32,14 @@ const handleSubmit = async (valid, { userName, password }) => {
       password
     }
   })
-  localStorage.setItem('authenticated', JSON.stringify(res.data))
-  localStorage.setItem('token', res.data.token)
-  $router.push({ name: 'home' })
+  
+  if (res.data.success) {
+    console.log(res);
+    localStorage.setItem('user', JSON.stringify(res.data.data))
+    localStorage.setItem('authorization', res.data.data.token)
+    $router.push({ name: 'home' })
+  }
+  
 };
 
 const handleRegistry = () => $router.push({ name: 'registry' })

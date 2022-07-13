@@ -8,7 +8,7 @@
     </div>
   </div>
 </template>
- 
+ <script setup></script>
 <style lang="scss" scoped>
 .login-auth-container {
   position: relative;

@@ -1,8 +1,9 @@
-const Controller = require("egg").Controller;
+// const Controller = require("egg").Controller;
+const BaseController = require("./base");
 /**
  * @Controller 用户认证
  */
-class AuthController extends Controller {
+class AuthController extends BaseController {
   /**
    * @Summary 登录接口（吴）
    * @Router post /api/auth/login
@@ -13,9 +14,13 @@ class AuthController extends Controller {
    */
 
   async login() {
-    const { ctx, app } = this;
-    const list = await ctx.service.auth.login();
-    ctx.body = list;
+    const { ctx } = this;
+    try {
+      const data = await ctx.service.auth.login();
+      this.handleRes(data);
+    } catch (err) {
+      this.handleRes(err);
+    }
   }
 
   /**
@@ -28,9 +33,12 @@ class AuthController extends Controller {
    */
   async registry() {
     const { ctx } = this;
-
-    const list = await ctx.service.auth.registry();
-    ctx.body = list;
+    try {
+      const data = await ctx.service.auth.registry();
+      this.handleRes(data);
+    } catch (err) {
+      this.handleRes(err);
+    }
   }
 }
 

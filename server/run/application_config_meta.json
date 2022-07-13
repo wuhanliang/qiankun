@@ -77,6 +77,21 @@
     "basePath": "D:\\person\\qiankun\\server\\node_modules\\egg-swagger-doc\\config\\config.default.js",
     "securityDefinitions": "D:\\person\\qiankun\\server\\node_modules\\egg-swagger-doc\\config\\config.default.js"
   },
+  "mysql": {
+    "client": {
+      "host": "D:\\person\\qiankun\\server\\config\\config.default.js",
+      "port": "D:\\person\\qiankun\\server\\config\\config.default.js",
+      "user": "D:\\person\\qiankun\\server\\config\\config.default.js",
+      "password": "D:\\person\\qiankun\\server\\config\\config.default.js",
+      "database": "D:\\person\\qiankun\\server\\config\\config.default.js"
+    },
+    "app": "D:\\person\\qiankun\\server\\config\\config.default.js",
+    "agent": "D:\\person\\qiankun\\server\\config\\config.default.js",
+    "default": {
+      "database": "D:\\person\\qiankun\\server\\node_modules\\egg-mysql\\config\\config.default.js",
+      "connectionLimit": "D:\\person\\qiankun\\server\\node_modules\\egg-mysql\\config\\config.default.js"
+    }
+  },
   "view": {
     "mapping": {
       ".html": "D:\\person\\qiankun\\server\\config\\config.default.js"
@@ -96,7 +111,13 @@
     "host": "D:\\person\\qiankun\\server\\config\\config.default.js",
     "port": "D:\\person\\qiankun\\server\\config\\config.default.js",
     "username": "D:\\person\\qiankun\\server\\config\\config.default.js",
-    "password": "D:\\person\\qiankun\\server\\config\\config.default.js"
+    "password": "D:\\person\\qiankun\\server\\config\\config.default.js",
+    "dialectOptions": {
+      "useUTC": "D:\\person\\qiankun\\server\\config\\config.default.js",
+      "charset": "D:\\person\\qiankun\\server\\config\\config.default.js",
+      "collate": "D:\\person\\qiankun\\server\\config\\config.default.js"
+    },
+    "timezone": "D:\\person\\qiankun\\server\\config\\config.default.js"
   },
   "session": {
     "maxAge": "D:\\person\\qiankun\\server\\node_modules\\egg-session\\config\\config.default.js",
@@ -192,14 +213,6 @@
     "compileDebug": "D:\\person\\qiankun\\server\\node_modules\\egg-view-ejs\\config\\config.default.js",
     "delimiter": "D:\\person\\qiankun\\server\\node_modules\\egg-view-ejs\\config\\config.default.js",
     "strict": "D:\\person\\qiankun\\server\\node_modules\\egg-view-ejs\\config\\config.default.js"
-  },
-  "mysql": {
-    "default": {
-      "database": "D:\\person\\qiankun\\server\\node_modules\\egg-mysql\\config\\config.default.js",
-      "connectionLimit": "D:\\person\\qiankun\\server\\node_modules\\egg-mysql\\config\\config.default.js"
-    },
-    "app": "D:\\person\\qiankun\\server\\node_modules\\egg-mysql\\config\\config.default.js",
-    "agent": "D:\\person\\qiankun\\server\\node_modules\\egg-mysql\\config\\config.default.js"
   },
   "env": "D:\\person\\qiankun\\server\\node_modules\\egg\\config\\config.default.js",
   "name": "D:\\person\\qiankun\\server\\node_modules\\egg\\config\\config.default.js",
