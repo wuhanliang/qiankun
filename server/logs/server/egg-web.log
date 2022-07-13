@@ -14,3 +14,75 @@
 2022-07-13 11:39:21,392 INFO 23236 [egg-watcher:application] watcher start success
 2022-07-13 11:39:21,406 INFO 23236 [egg-mysql] instance[0] status OK, rds currentTime: Wed Jul 13 2022 03:39:21 GMT+0800 (中国标准时间)
 2022-07-13 11:39:21,449 INFO 23236 [egg:core] dump config after ready, 9ms
+2022-07-13 11:39:23,262 INFO 21860 [egg:logger] init all loggers with options: {"dir":"D:\\person\\qiankun\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-07-13 11:39:23,324 INFO 21860 [egg-multipart] stream mode enable
+2022-07-13 11:39:23,332 INFO 21860 [egg-mysql] connecting root@localhost:3306/late
+2022-07-13 11:39:24,104 INFO 21860 [egg-static] starting static serve /public/ -> D:\person\qiankun\server\app\public
+2022-07-13 11:39:24,108 INFO 21860 [egg-security] use methodnoallow middleware
+2022-07-13 11:39:24,109 INFO 21860 [egg-security] use noopen middleware
+2022-07-13 11:39:24,109 INFO 21860 [egg-security] use nosniff middleware
+2022-07-13 11:39:24,110 INFO 21860 [egg-security] use xssProtection middleware
+2022-07-13 11:39:24,111 INFO 21860 [egg-security] use xframe middleware
+2022-07-13 11:39:24,111 INFO 21860 [egg-security] use dta middleware
+2022-07-13 11:39:24,112 INFO 21860 [egg-security] compose 6 middlewares into one security middleware
+2022-07-13 11:39:24,130 INFO 21860 [egg:core] dump config after load, 7ms
+2022-07-13 11:39:24,302 INFO 21860 [egg-watcher:application] watcher start success
+2022-07-13 11:39:24,323 INFO 21860 [egg-mysql] instance[0] status OK, rds currentTime: Wed Jul 13 2022 03:39:24 GMT+0800 (中国标准时间)
+2022-07-13 11:39:24,373 INFO 21860 [egg:core] dump config after ready, 11ms
+2022-07-13 11:43:52,441 INFO 16380 [egg:logger] init all loggers with options: {"dir":"D:\\person\\qiankun\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-07-13 11:43:52,475 INFO 16380 [egg-multipart] stream mode enable
+2022-07-13 11:43:52,479 INFO 16380 [egg-mysql] connecting root@localhost:3306/late
+2022-07-13 11:43:53,063 INFO 16380 [egg-static] starting static serve /public/ -> D:\person\qiankun\server\app\public
+2022-07-13 11:43:53,066 INFO 16380 [egg-security] use methodnoallow middleware
+2022-07-13 11:43:53,067 INFO 16380 [egg-security] use noopen middleware
+2022-07-13 11:43:53,068 INFO 16380 [egg-security] use nosniff middleware
+2022-07-13 11:43:53,068 INFO 16380 [egg-security] use xssProtection middleware
+2022-07-13 11:43:53,069 INFO 16380 [egg-security] use xframe middleware
+2022-07-13 11:43:53,070 INFO 16380 [egg-security] use dta middleware
+2022-07-13 11:43:53,070 INFO 16380 [egg-security] compose 6 middlewares into one security middleware
+2022-07-13 11:43:53,084 INFO 16380 [egg:core] dump config after load, 5ms
+2022-07-13 11:43:53,179 INFO 16380 [egg-watcher:application] watcher start success
+2022-07-13 11:43:53,187 INFO 16380 [egg-mysql] instance[0] status OK, rds currentTime: Wed Jul 13 2022 03:43:53 GMT+0800 (中国标准时间)
+2022-07-13 11:43:53,228 INFO 16380 [egg:core] dump config after ready, 10ms
+2022-07-13 11:55:06,512 INFO 21776 [egg:logger] init all loggers with options: {"dir":"D:\\person\\qiankun\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-07-13 11:55:06,552 INFO 21776 [egg-multipart] stream mode enable
+2022-07-13 11:55:06,558 INFO 21776 [egg-mysql] connecting root@localhost:3306/late
+2022-07-13 11:55:07,198 INFO 21776 [egg-static] starting static serve /public/ -> D:\person\qiankun\server\app\public
+2022-07-13 11:55:07,201 INFO 21776 [egg-security] use methodnoallow middleware
+2022-07-13 11:55:07,202 INFO 21776 [egg-security] use noopen middleware
+2022-07-13 11:55:07,203 INFO 21776 [egg-security] use nosniff middleware
+2022-07-13 11:55:07,204 INFO 21776 [egg-security] use xssProtection middleware
+2022-07-13 11:55:07,204 INFO 21776 [egg-security] use xframe middleware
+2022-07-13 11:55:07,205 INFO 21776 [egg-security] use dta middleware
+2022-07-13 11:55:07,205 INFO 21776 [egg-security] compose 6 middlewares into one security middleware
+2022-07-13 11:55:07,227 INFO 21776 [egg:core] dump config after load, 9ms
+2022-07-13 11:55:07,361 INFO 21776 [egg-watcher:application] watcher start success
+2022-07-13 11:55:07,374 INFO 21776 [egg-mysql] instance[0] status OK, rds currentTime: Wed Jul 13 2022 03:55:07 GMT+0800 (中国标准时间)
+2022-07-13 11:55:07,417 INFO 21776 [egg:core] dump config after ready, 9ms
+2022-07-13 13:52:06,944 INFO 23432 [egg:logger] init all loggers with options: {"dir":"D:\\person\\qiankun\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-07-13 13:52:07,039 INFO 23432 [egg-multipart] stream mode enable
+2022-07-13 13:52:07,053 INFO 23432 [egg-mysql] connecting root@localhost:3306/late
+2022-07-13 13:52:08,596 INFO 23432 [egg-static] starting static serve /public/ -> D:\person\qiankun\server\app\public
+2022-07-13 13:52:08,602 INFO 23432 [egg-security] use methodnoallow middleware
+2022-07-13 13:52:08,604 INFO 23432 [egg-security] use noopen middleware
+2022-07-13 13:52:08,606 INFO 23432 [egg-security] use nosniff middleware
+2022-07-13 13:52:08,608 INFO 23432 [egg-security] use xssProtection middleware
+2022-07-13 13:52:08,610 INFO 23432 [egg-security] use xframe middleware
+2022-07-13 13:52:08,611 INFO 23432 [egg-security] use dta middleware
+2022-07-13 13:52:08,612 INFO 23432 [egg-security] compose 6 middlewares into one security middleware
+2022-07-13 13:52:08,668 INFO 23432 [egg:core] dump config after load, 17ms
+2022-07-13 13:52:08,884 INFO 23432 [egg-watcher:application] watcher start success
+2022-07-13 13:52:08,910 INFO 23432 [egg-mysql] instance[0] status OK, rds currentTime: Wed Jul 13 2022 05:52:08 GMT+0800 (中国标准时间)
+2022-07-13 13:52:08,975 INFO 23432 [egg:core] dump config after ready, 16ms
+2022-07-13 13:52:11,761 INFO 20588 [egg:logger] init all loggers with options: {"dir":"D:\\person\\qiankun\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-07-13 13:52:11,832 INFO 20588 [egg-multipart] stream mode enable
+2022-07-13 13:52:11,840 INFO 20588 [egg-mysql] connecting root@localhost:3306/late
+2022-07-13 13:52:13,091 INFO 20588 [egg-static] starting static serve /public/ -> D:\person\qiankun\server\app\public
+2022-07-13 13:52:13,097 INFO 20588 [egg-security] use methodnoallow middleware
+2022-07-13 13:52:13,100 INFO 20588 [egg-security] use noopen middleware
+2022-07-13 13:52:13,102 INFO 20588 [egg-security] use nosniff middleware
+2022-07-13 13:52:13,103 INFO 20588 [egg-security] use xssProtection middleware
+2022-07-13 13:52:13,105 INFO 20588 [egg-security] use xframe middleware
+2022-07-13 13:52:13,106 INFO 20588 [egg-security] use dta middleware
+2022-07-13 13:52:13,107 INFO 20588 [egg-security] compose 6 middlewares into one security middleware
+2022-07-13 13:52:13,142 INFO 20588 [egg:core] dump config after load, 16ms

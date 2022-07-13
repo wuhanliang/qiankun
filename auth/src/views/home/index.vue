@@ -4,31 +4,54 @@
     <router-link to="/">home</router-link>
 
     <Button @click="getData">click</Button>
-    <div></div>
+    <div>
+      <Table border :columns="columns" :data="dataSource"></Table>
+      <Page @on-change="getData" v-model="pageOpt.pageNum" v-bind="pageOpt"/>
+    </div>
   </div>
 </template>
 <script setup>
-import { Button } from "view-ui-plus"
+import { Button, Table, Page } from "view-ui-plus"
 
-import { ref, getCurrentInstance } from "vue";
+import { ref, getCurrentInstance, onMounted,  } from "vue";
 const { proxy } = getCurrentInstance()
 
+let dataSource = ref([])
+let pageOpt = ref({
+  pageSize: 10,
+  total: 200,
+  pageNum: 1
+})
+const columns = [
+  {
+    title: 'Name',
+    key: 'name'
+  },
+  {
+    title: 'Age',
+    key: 'age'
+  },
+  {
+    title: 'Address',
+    key: 'address'
+  }
+]
 const getData = async () => {
   const res = await proxy.$fetch({
     url: '/api/system/list/app',
     method: 'get',
     params: {
-      pageSize: 10,
-      pageNum: 1
+      ...pageOpt.value
     }
   })
-  console.log(res);
-  // if (res.data.success) {
-
-  //   // localStorage.setItem('user', JSON.stringify(res.data.data))
-  //   // localStorage.setItem('authorization', res.data.data.token)
-  //   // $router.push({ name: 'home' })
-  // }
+  if (res.data.success) {
+    dataSource.value = res.data.data.rows
+    pageOpt.value.total = res.data.data.total
+  }
 
 };
+
+onMounted(() => { 
+  getData()
+}) 
 </script>

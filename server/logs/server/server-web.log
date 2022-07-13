@@ -1,3 +1,19 @@
 2022-07-13 11:39:21,275 INFO 23236 [egg-swagger-doc] register router: get /swagger-doc
 2022-07-13 11:39:21,313 INFO 23236 [egg-swagger-doc] register router: get /swagger-ui.html
 2022-07-13 11:39:21,436 INFO 23236 [egg-sequelize](4ms) Executed (default): SELECT 1+1 AS result
+2022-07-13 11:39:24,146 INFO 21860 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-13 11:39:24,180 INFO 21860 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-13 11:39:24,359 INFO 21860 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2022-07-13 11:43:53,093 INFO 16380 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-13 11:43:53,122 INFO 16380 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-13 11:43:53,214 INFO 16380 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2022-07-13 11:55:07,245 INFO 21776 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-13 11:55:07,283 INFO 21776 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-13 11:55:07,404 INFO 21776 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2022-07-13 11:55:11,157 INFO 21776 [egg-sequelize](17ms) Executed (default): SELECT `id`, `user_name` AS `userName`, `nick_name` AS `nickName`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt`, `password`, `token` FROM `users` AS `user` WHERE `user`.`password` = '4QrcOUm6Wau+VuBX8g+IPg==' AND `user`.`user_name` = 'admin' LIMIT 1;
+2022-07-13 11:55:11,200 INFO 21776 [egg-sequelize](27ms) Executed (default): UPDATE `users` SET `token`=?,`updated_at`=? WHERE `id` = ?
+2022-07-13 13:52:08,693 INFO 23432 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-13 13:52:08,750 INFO 23432 [egg-swagger-doc] register router: get /swagger-ui.html
+2022-07-13 13:52:08,953 INFO 23432 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2022-07-13 13:52:13,169 INFO 20588 [egg-swagger-doc] register router: get /swagger-doc
+2022-07-13 13:52:13,210 INFO 20588 [egg-swagger-doc] register router: get /swagger-ui.html

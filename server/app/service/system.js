@@ -15,7 +15,7 @@ class SystemService extends Service {
       }, ${pageSize} `
     );
     const [total] = await this.app.mysql.query(
-      `SELECT COUNT(*) AS count FROM systems`
+      `SELECT COUNT(*) AS count FROM systems WHERE parent_id = ${parentId}`
     );
 
     return {
@@ -35,32 +35,52 @@ class SystemService extends Service {
     };
   }
   async create() {
-    const { ctx } = this;
-    try {
-      const body = ctx.request.body;
-      const result = this.$system.create({
-        name: "system",
-        container: "container",
-        entry: "localhost",
-        type: "vue",
+    const { ctx, app } = this;
+    const body = ctx.request.body;
+    return await this.$system
+      .findOne({
+        where: {
+          name: body.name,
+        },
+      })
+      .then(async (res) => {
+        if (!res) {
+          const result = await this.$system.create(body);
+          return {
+            status: true,
+            data: {
+              ...result,
+              createdAt: ctx.helper.formatDateTime(result.createdAt),
+              updatedAt: ctx.helper.formatDateTime(result.updatedAt),
+            },
+            msg: "新增成功！",
+          };
+        } else {
+          return {
+            status: false,
+            data: null,
+            msg: "系统名称已存在！请修改！",
+          };
+        }
       });
-      return result;
-      // return this.$system
-      //   .findOne({
-      //     where: {
-      //       name: body.name,
-      //     },
-      //   })
-      //   .then((res) => {
-      //     if (!res) {
-      //       const result = this.$system.create(body);
-      //       return result;
-      //     } else {
-      //       return "应用已经存在";
-      //     }
-      //   });
-    } catch (err) {
-      return err;
+  }
+
+  async update() {
+    const { ctx, app } = this;
+    const body = ctx.request.body;
+    const res = await this.$system.update(body, { where: { id: body.id } });
+    if (res) {
+      return {
+        status: true,
+        data: "编辑成功！",
+        msg: "编辑成功！",
+      };
+    } else {
+      return {
+        status: false,
+        data: null,
+        msg: "编辑失败！请稍后重试！",
+      };
     }
   }
 }
